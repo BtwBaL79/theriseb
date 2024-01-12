@@ -1,1 +1,1 @@
-
+[FBAN/Orca-Android;FBAV/339.0.0.32.118;FBBV/307816483;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/VODAFONE IN;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.orca;FBDV/moto g(7) play;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
