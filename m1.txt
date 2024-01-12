@@ -1,1 +1,1 @@
-joy bangla nowka marka bot din
+[FBAN/Orca-Android;FBAV/324.0.0.48.120;FBBV/284819083;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/Aircel;FBMF/Xiaomi;FBBD/Pocophone;FBPN/com.facebook.orca;FBDV/POCO F1;FBSV/8.1;nullFBCA/arm64-v8a:;]
