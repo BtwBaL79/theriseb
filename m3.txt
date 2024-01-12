@@ -1,1 +1,2 @@
 
+[FBAN/Orca-Android;FBAV/310.0.0.50.118;FBBV/282018877;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/Airtel;FBMF/Cricket;FBBD/Cricket;FBPN/com.facebook.orca;FBDV/SL101AE;FBSV/12;nullFBCA/armeabi-v7a:armeabi;]
