@@ -1,2 +1,1 @@
-joy bangla nowka marka bot din
-2
+[FBAN/Orca-Android;FBAV/244.0.0.43.118;FBBV/179053252;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/Airtel;FBMF/UMX;FBBD/UMX;FBPN/com.facebook.orca;FBDV/U693CL;FBSV/9;nullFBCA/armeabi-v7a:armeabi;]
