@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/378.0.0.18.112;FBBV/315613980;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Reliance Jio;FBMF/Xiaomi;FBBD/Redmi;FBPN/com.facebook.orca;FBDV/Redmi 4A;FBSV/6.0.1;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/278.0.0.51.119;FBBV/229281747;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Grameenphone;FBMF/SHARP;FBBD/DOCOMO;FBPN/com.facebook.katana;FBDV/SH-53A;FBSV/14.0.0;FBCA/arm64-v8a:;]
