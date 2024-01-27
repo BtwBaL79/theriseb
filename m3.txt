@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/425.0.0.22.49;FBBV/498189258;FBDM/{density=2.75,width=1080,height=2110};FBLC/en_US;FBRV/0;FBCR/Vi India;FBMF/Xiaomi;FBBD/Redmi;FBPN/com.facebook.katana;FBDV/M2003J15SC;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/122.0.0.17.71;FBBV/56891632;FBDM/{density=2.5,width=1536,height=1280};FBLC/en_US;FBRV/253341991;FBCR/Dialog;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo Y25;FBSV/8.9.1;nullFBCA/armeabi-v7a:armeabi;]
