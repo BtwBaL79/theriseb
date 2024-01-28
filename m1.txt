@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/74.0.0.4636;FBBV/3230308;[FBAN/FB4A;FBAV/437.0.0.35.116;FBBV/527644733;FBDM/{density=3.0,width=2020,height=1080};FBLC/en_US;FBRV/529308758;FB_FW/2;FBCR/Searching for Service;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G970U;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/Orca-Android;FBAV/270.1.0.66.127;FBBV/214895118;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Aircel;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.orca;FBDV/SM-A426N;FBSV/9;nullFBCA/arm64-v8a:;]
