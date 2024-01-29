@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/290.0.0.44.121;FBBV/248231979;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/Reliance Communications;FBMF/CORE;FBBD/CORE;FBPN/com.facebook.orca;FBDV/Core-T5;FBSV/7;nullFBCA/arm64-v8a:;]
+[FBAN/Orca-Android;FBAV/237.0.0.44.120;FBBV/170693384;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Jio;FBMF/TCL;FBBD/TCL;FBPN/com.facebook.orca;FBDV/5130I;FBSV/8;nullFBCA/arm64-v8a:;]
