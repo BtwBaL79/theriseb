@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/90.0.0.20.70;FBBV/36474238;FBDM/{density=4.0,width=1200,height=1024};FBLC/en_US;FBRV/299560442;FBCR/Movicel;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Redmi Note 7 Pro;FBSV/8.4.2;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/Orca-Android;FBAV/288.0.0.46.123;FBBV/245199169;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/null;FBMF/Pixel;FBBD/Pixel;FBPN/com.facebook.orca;FBDV/Pixel;FBSV/4;nullFBCA/armeabi-v7a:armeabi;]
