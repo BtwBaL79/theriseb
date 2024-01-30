@@ -1,5 +1,1 @@
-[FBAN/Orca-Android;FBAV/237.0.0.44.120;FBBV/170693384;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Jio;FBMF/TCL;FBBD/TCL;FBPN/com.facebook.orca;FBDV/5130I;FBSV/8;nullFBCA/arm64-v8a:;]
-[FBAN/Orca-Android;FBAV/392.0.0.32.108;FBBV/318413147;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Jio;FBMF/Kivi;FBBD/kivi;FBPN/com.facebook.orca;FBDV/43U700GU;FBSV/7;nullFBCA/arm64-v8a:;]
-[FBAN/Orca-Android;FBAV/261.0.0.52.126;FBBV/202681551;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Telecom;FBMF/VIEW;FBBD/VIEW;FBPN/com.facebook.orca;FBDV/View;FBSV/9;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/Orca-Android;FBAV/288.0.0.46.123;FBBV/245199169;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/null;FBMF/Pixel;FBBD/Pixel;FBPN/com.facebook.orca;FBDV/Pixel;FBSV/4;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/Orca-Android;FBAV/350.1.0.29.106;FBBV/310015565;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Jio;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.orca;FBDV/220333QL;FBSV/15;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/Orca-Android;FBAV/237.0.0.44.120;FBBV/1706[FBAN/Orca-Android;FBAV/394.0.0.50.107;FBBV/318819784;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/AXIS Null;FBMF/GULFSTREAM;FBBD/GULFSTREAM;FBPN/com.facebook.orca;FBDV/G450;FBSV/15;nullFBCA/armeabi-v7a:armeabi;]
