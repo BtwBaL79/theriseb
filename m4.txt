@@ -1,1 +1,2 @@
-[FBAN/Orca-Android;FBAV/238.0.0.41.116;FBBV/171725783;FBDM/{density=1.75,width=720,height=1396};FBLC/hi_IN;FBCR/BSNL Mobile;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.orca;FBDV/V2143;FBSV/11;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/Orca-Android;FBAV/375.1.0.28.111;FBBV/315015375;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Reliance Communications;FBMF/KUKUI;FBBD/kukui;FBPN/com.facebook.orca;FBDV/kukui;FBSV/12;nullFBCA/arm64-v8a:;]
+
