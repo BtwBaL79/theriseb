@@ -1,1 +1,2 @@
+[FBAN/Orca-Android;FBAV/309.0.0.47.119;FBBV/281818581;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Aircel;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.orca;FBDV/octopus;FBSV/14;nullFBCA/arm64-v8a:;]
 [FBAN/Orca-Android;FBAV/274.0.0.46.119;FBBV/219237426;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Jio;FBMF/Symphony;FBBD/symphony;FBPN/com.facebook.orca;FBDV/i80;FBSV/6;nullFBCA/arm64-v8a:;]
