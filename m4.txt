@@ -1,2 +1,1 @@
-[FBAN/Orca-Android;FBAV/375.1.0.28.111;FBBV/315015375;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Reliance Communications;FBMF/KUKUI;FBBD/kukui;FBPN/com.facebook.orca;FBDV/kukui;FBSV/12;nullFBCA/arm64-v8a:;]
-
+[FBAN/Orca-Android;FBAV/184.0.0.41.79;FBBV/119894354;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Aircel;FBMF/itel;FBBD/itel;FBPN/com.facebook.orca;FBDV/itel A631W;FBSV/3;nullFBCA/arm64-v8a:;]
