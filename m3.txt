@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/183.0.0.39.75;FBBV/119103913;FBDM/{density=2.0,width=720,height=1360[FBAN/FB4A;FBAV/246.0.0.49.121;FBBV/181448462;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Vodafone Idea;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SC-01M;FBSV/14;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/62.0.0.42.77;FBBV/21376152;FBDM/{density=1.5,width=720,height=812};FBLC/en_US;FBRV/285952310;FBCR/Telcel;FBMF/Acer;FBBD/acer;FBPN/com.facebook.katana;FBDV/Iconia Tab 7 A1-713HD;FBSV/9.9.5;nullFBCA/armeabi-v7a:armeabi;]
