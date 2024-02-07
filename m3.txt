@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/62.0.0.42.77;FBBV/21376152;FBDM/{density=1.5,width=720,height=812};FBLC/en_US;FBRV/285952310;FBCR/Telcel;FBMF/Acer;FBBD/acer;FBPN/com.facebook.katana;FBDV/Iconia Tab 7 A1-713HD;FBSV/9.9.5;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/Orca-Android;FBAV/194.0.0.42.99;FBBV/127867930;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Tata Docomo;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.orca;FBDV/moto g(10) power;FBSV/7;nullFBCA/arm64-v8a:;]
