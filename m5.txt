@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/309.0.0.47.119;FBBV/281818581;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/Aircel;FBMF/T-Mobile;FBBD/T-Mobile;FBPN/com.facebook.orca;FBDV/REVVL V+ 5G;FBSV/11;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/194.0.0.42.99;FBBV/127867930;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/Magyar Telekom;FBMF/Fujitsu;FBBD/fujitsu;FBPN/com.facebook.katana;FBDV/A101FC;FBSV/6;nullFBCA/arm64-v8a:;]
