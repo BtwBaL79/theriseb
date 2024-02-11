@@ -1,1 +1,2 @@
-[FBAN/FB4A;FBAV/204.0.0.24.101;FBBV/138170440;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Robi Axiata;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/moto g stylus 5G (2022);FBSV/8;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/320.0.0.34.118;FBBV/284016955;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/Banglalink;FBMF/ZTE;FBBD/ZTE;FBPN/com.facebook.katana;FBDV/ZR01;FBSV/15;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/357.0.0.23.115;FBBV/311415020;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/Verizon;FBMF/Hisense;FBBD/Infinity;FBPN/com.facebook.katana;FBDV/Hisense Infinity H30;FBSV/13;nullFBCA/arm64-v8a:;]
