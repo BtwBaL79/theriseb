@@ -1,1 +1,2 @@
-[FBAN/FB4A;FBAV/398.0.0.21.105;FBBV/420612354;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/airtel;FBMF/Xiaomi;FBBD/Redmi;FBPN/com.facebook.katana;FBDV/Redmi Note 4;FBSV/12;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/410.0.0.26.115;FBBV/441017073;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Telecom BD;FBMF/Pixel;FBBD/Pixel;FBPN/com.facebook.katana;FBDV/Pixel 3a;FBSV/4;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/414.0.0.30.113;FBBV/441815108;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Tata Docomo;FBMF/ZTE;FBBD/ZTE;FBPN/com.facebook.katana;FBDV/ZTE A7000;FBSV/11;nullFBCA/armeabi-v7a:armeabi;]
