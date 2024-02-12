@@ -1,2 +1,1 @@
-[FBAN/FB4A;FBAV/232.0.0.35.115;FBBV/165032968;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Airtel;FBMF/Pixel;FBBD/Pixel;FBPN/com.facebook.katana;FBDV/Pixel 7;FBSV/15;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/222.0.0.10.118;FBBV/253197554;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/Jio 4G;FBMF/Prime;FBBD/_Prime;FBPN/com.facebook.katana;FBDV/Le_Prime;FBSV/6;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/359.0.0.30.118;FBBV/311816631;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/Robi Axiata;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/motorola one fusion;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
