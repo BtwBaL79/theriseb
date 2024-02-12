@@ -1,3 +1,1 @@
-[FBAN/FB4A;FBAV/338.1.0.36.118;FBBV/307617358;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/Robi;FBMF/TCL;FBBD/TCL;FBPN/com.facebook.katana;FBDV/T676K;FBSV/12;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/264.0.0.44.111;FBBV/206636693;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/Reliance Communications;FBMF/Pro;FBBD/pro;FBPN/com.facebook.katana;FBDV/X88pro10.r.dd.6330.d4;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
-
+[FBAN/FB4A;FBAV/411.1.0.29.112;FBBV/441216522;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Airtel;FBMF/BLU;FBBD/BLU;FBPN/com.facebook.katana;FBDV/M8L 2022;FBSV/14;nullFBCA/armeabi-v7a:armeabi;]
