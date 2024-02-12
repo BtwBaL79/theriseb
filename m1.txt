@@ -1,2 +1,1 @@
-[FBAN/FB4A;FBAV/205.0.0.27.113;FBBV/139196834;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/null;FBMF/Vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/V2190A;FBSV/4;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/282.0.0.40.117;FBBV/236468560;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/;FBMF/TECNO;FBBD/TECNO;FBPN/com.facebook.katana;FBDV/TECNO CH6;FBSV/4;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/191.0.0.35.96;FBBV/125357973;FBDM/{density=2.0,width=1200,height=812};FBLC/en_US;FBCR/Deutsche Telekom;FBMF/Amazon;FBBD/Amazon;FBPN/com.facebook.katana;FBDV/KFTRPWI;FBSV/11.9.1;FBCA/arm64-v8a:;]
