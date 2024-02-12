@@ -1,1 +1,2 @@
-[FBAN/FB4A;FBAV/411.1.0.29.112;FBBV/441216522;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Airtel;FBMF/BLU;FBBD/BLU;FBPN/com.facebook.katana;FBDV/M8L 2022;FBSV/14;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/413.0.0.30.104;FBBV/441615153;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/axis;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.katana;FBDV/Samsung Chromebook 3;FBSV/6;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/295.0.0.34.119;FBBV/254426061;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Airtel;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/motorola one fusion+;FBSV/6;nullFBCA/armeabi-v7a:armeabi;]
