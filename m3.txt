@@ -1,1 +1,2 @@
-[FBAN/FB4A;FBAV/306.1.0.40.119;FBBV/273921938;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Banglalink;FBMF/Honor;FBBD/honor;FBPN/com.facebook.katana;FBDV/LLD-AL00;FBSV/14;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/261.0.0.52.126;FBBV/202681551;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Robi;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/moto e22;FBSV/11;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/236.0.0.40.117;FBBV/169421929;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Airtel;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/moto z3;FBSV/15;nullFBCA/arm64-v8a:;]
