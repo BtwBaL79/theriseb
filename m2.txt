@@ -1,2 +1,1 @@
-[FBAN/FB4A;FBAV/324.0.0.48.120;FBBV/284819083;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Grameenphone;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/CPH1919;FBSV/8;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/388.0.0.32.105;FBBV/317616396;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/Tata Docomo;FBMF/Motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/moto e30;FBSV/14;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/398.0.0.21.105;FBBV/420612354;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/airtel;FBMF/Xiaomi;FBBD/Redmi;FBPN/com.facebook.katana;FBDV/Redmi Note 4;FBSV/12;nullFBCA/arm64-v8a:;]
