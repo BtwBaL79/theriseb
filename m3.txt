@@ -1,2 +1,2 @@
-[FBAN/FB4A;FBAV/90.0.0.20.70;FBBV/36474238;FBDM/{density=4.0,width=1200,height=1024};FBLC/en_US;FBRV/299560442;FBCR/Movicel;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Redmi Note 7 Pro;FBSV/8.4.2;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/401.0.0.24.77;FBBV/421209723;FBDM/{density=1.5,width=1200,height=800};FBLC/en_US;FBCR/Maroc Telecom;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo Y19t;FBSV/10.4.9;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/411.1.0.29.112;FBBV/441216522;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/Maroc Telecom;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/moto g stylus (2022);FBSV/14;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/247.0.0.42.116;FBBV/182642037;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/Airtel;FBMF/Sony;FBBD/sony;FBPN/com.facebook.katana;FBDV/A001SO;FBSV/4;nullFBCA/arm64-v8a:;]
