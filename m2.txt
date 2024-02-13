@@ -1,2 +1,2 @@
-[FBAN/FB4A;FBAV/34.0.0.0.242;FBBV/10009614;FBDM/{density=1.5,width=768,height=736};FBLC/en_US;FBCR/SoftBank;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/Infinix X609;FBSV/9.7.1;FBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/298.0.0.46.116;FBBV/259886945;FBDM/{density=3.5,width=768,height=1440};FBLC/en_US;FBRV/242219424;FB_FW/2;FBCR/Robi Axiata;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/Infinix X688C;FBSV/10.9.6;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/122.0.0.17.71;FBBV/56891632;FBDM/{density=2.5,width=1536,height=1280};FBLC/en_US;FBRV/253341991;FBCR/Dialog;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo Y25;FBSV/8.9.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/260.0.0.42.118;FBBV/201518779;FBDM/{density=1.75,width=720,height=1396};FBLC/en_BD;FBCR/Airtel;FBMF/BMW;FBBD/bmw;FBPN/com.facebook.orca;FBDV/Z4;FBSV/14;nullFBCA/arm64-v8a:;]
