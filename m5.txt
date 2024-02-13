@@ -1,3 +1,2 @@
-[FBAN/FB4A;FBAV/381.0.0.29.105;FBBV/316215288;FBDM/{density=3.0,width=720,height=1440};FBLC/en_IN;FBCR/aircel;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/moto g pure;FBSV/8;nullFBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/211.0.0.43.112;FBBV/144693239;FBDM/{density=1.75,width=720,height=1396};FBLC/en_IN;FBCR/Namaste;FBMF/Realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX3195;FBSV/8;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/279.0.0.43.120;FBBV/231020918;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/null;FBMF/HUAWEI;FBBD/Honor;FBPN/com.facebook.katana;FBDV/OXF-AN10;FBSV/3;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/300.0.0.51.129;FBBV/262618423;FBDM/{density=3.0,width=1080,height=2016};FBLC/en_US;FBRV/263311462;FBCR/null;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/moto g(6);FBSV/9;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/62.0.0.42.77;FBBV/21376152;FBDM/{density=1.5,width=720,height=812};FBLC/en_US;FBRV/285952310;FBCR/Telcel;FBMF/Acer;FBBD/acer;FBPN/com.facebook.katana;FBDV/Iconia Tab 7 A1-713HD;FBSV/9.9.5;nullFBCA/armeabi-v7a:armeabi;]
