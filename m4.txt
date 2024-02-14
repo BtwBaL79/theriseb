@@ -1,2 +1,2 @@
-[FBAN/FB4A;FBAV/270.0.0.57.127;FBBV/214125758;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/Airtel;FBMF/ITEL;FBBD/itel;FBPN/com.facebook.katana;FBDV/itel W6004P;FBSV/15;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/356.0.0.28.112;FBBV/311215741;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/trogdor;FBMF/Amazon;FBBD/Fire;FBPN/com.facebook.katana;FBDV/AFTSHN01;FBSV/9;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/248.1.0.44.116;FBBV/184540721;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/airtel;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/V1936A;FBSV/13;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/234.0.0.30.115;FBBV/167211814;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/MTS Bangladesh;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/moto g(9) plus;FBSV/3;nullFBCA/arm64-v8a:;]
