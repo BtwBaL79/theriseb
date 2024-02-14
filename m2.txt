@@ -1,2 +1,2 @@
-[FBAN/FB4A;FBAV/338.1.0.36.118;FBBV/307617358;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/Telcel;FBMF/Pixel;FBBD/Pixel;FBPN/com.facebook.katana;FBDV/Pixel 6;FBSV/14;nullFBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/265.0.0.61.103;FBBV/208173431;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Airtel;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/V1813A;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/398.0.0.21.105;FBBV/420612354;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Tata Docomo;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/IN2021;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/203.0.0.16.293;FBBV/137424444;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/Grameenphone;FBMF/Xiaomi;FBBD/Poco;FBPN/com.facebook.katana;FBDV/2201116PG;FBSV/13;nullFBCA/arm64-v8a:;]
