@@ -1,2 +1,2 @@
-[FBAN/FB4A;FBAV/267.1.0.46.120;FBBV/210653367;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Maroc Telecom;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/CPH2247;FBSV/7;nullFBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/341.0.0.30.73;FBBV/308212462;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/1010;FBMF/Honor;FBBD/Honor;FBPN/com.facebook.katana;FBDV/HRY-AL00a;FBSV/7;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/300.1.0.57.129;FBBV/263723580;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Airtel;FBMF/Moxee;FBBD/Moxee;FBPN/com.facebook.katana;FBDV/MT-T800;FBSV/11;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/302.0.0.45.119;FBBV/268946212;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/banglalink;FBMF/ASUS;FBBD/ASUS;FBPN/com.facebook.katana;FBDV/ASUS_I001DA;FBSV/7;nullFBCA/arm64-v8a:;]
