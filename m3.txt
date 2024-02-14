@@ -1,2 +1,2 @@
-[FBAN/FB4A;FBAV/289.0.0.40.121;FBBV/246888155;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/VODAFONE BD;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A226BR;FBSV/13;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/299.0.0.51.236;FBBV/261476335;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/BL-Mobile;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/V2065A;FBSV/5;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/365.0.0.30.112;FBBV/313015266;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Magyar Telekom;FBMF/He;FBBD/You;FBPN/com.facebook.katana;FBDV/HEYOU20;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/282.0.0.40.117;FBBV/236468560;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/MTS BD;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J530GM;FBSV/4;nullFBCA/armeabi-v7a:armeabi;]
