@@ -1,2 +1,1 @@
-[FBAN/FB4A;FBAV/313.0.0.35.119;FBBV/282616749;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/Airtel;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/motorola edge 20 fusion;FBSV/3;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/204.0.0.24.101;FBBV/138170440;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/Robi rio;FBMF/SHARP;FBBD/sharp;FBPN/com.facebook.katana;FBDV/SHG07;FBSV/9;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/208.0.0.38.104;FBBV/141745697;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Free Mobile;FBMF/Pixel;FBBD/Pixel;FBPN/com.facebook.katana;FBDV/Pixel 4;FBSV/15;nullFBCA/armeabi-v7a:armeabi;]
