@@ -1,2 +1,1 @@
-[FBAN/FB4A;FBAV/300.1.0.57.129;FBBV/263723580;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Airtel;FBMF/Moxee;FBBD/Moxee;FBPN/com.facebook.katana;FBDV/MT-T800;FBSV/11;nullFBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/302.0.0.45.119;FBBV/268946212;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/banglalink;FBMF/ASUS;FBBD/ASUS;FBPN/com.facebook.katana;FBDV/ASUS_I001DA;FBSV/7;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/279.0.0.43.120;FBBV/231020918;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/Ethio Telecom;FBMF/Asus;FBBD/Zenfone;FBPN/com.facebook.katana;FBDV/ASUS_X018D;FBSV/4;nullFBCA/arm64-v8a:;]
