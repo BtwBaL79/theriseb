@@ -1,2 +1,1 @@
-[FBAN/FB4A;FBAV/398.0.0.21.105;FBBV/420612354;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Tata Docomo;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/IN2021;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/203.0.0.16.293;FBBV/137424444;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/Grameenphone;FBMF/Xiaomi;FBBD/Poco;FBPN/com.facebook.katana;FBDV/2201116PG;FBSV/13;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/399.0.0.24.93;FBBV/420811604;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Magyar Telekom;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/Infinix X5515F;FBSV/11;nullFBCA/armeabi-v7a:armeabi;]
