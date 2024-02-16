@@ -1,2 +1,1 @@
-[FBAN/FB4A;FBAV/342.0.0.37.119;FBBV/308417363;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/Airtel;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Redmi Note 9 Pro;FBSV/6;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/401.0.0.24.77;FBBV/421209723;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/Eswatini Mobile;FBMF/myros;FBBD/myros;FBPN/com.facebook.katana;FBDV/E70 Ultra;FBSV/11;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/62.0.0.42.77;FBBV/21376152;FBDM/{density=1.5,width=720,height=812};FBLC/en_US;FBRV/285952310;FBCR/Telcel;FBMF/onn;FBBD/onn;FBPN/com.facebook.katana;FBDV/100135925;FBSV/9.9.5;nullFBCA/armeabi-v7a:armeabi;]
