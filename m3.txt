@@ -1,1 +1,2 @@
-[FBAN/FB4A;FBAV/208.0.0.38.104;FBBV/141745697;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Free Mobile;FBMF/Pixel;FBBD/Pixel;FBPN/com.facebook.katana;FBDV/Pixel 4;FBSV/15;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/307.0.0.40.111;FBBV/274797363;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/MagtiCom;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/motorola one 5G ace;FBSV/3;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/418.0.0.33.69;FBBV/442611883;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/airtel;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G975N;FBSV/9.0;nullFBCA/arm64-v8a:;]
