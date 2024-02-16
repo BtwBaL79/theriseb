@@ -1,1 +1,2 @@
-[FBAN/FB4A;FBAV/279.0.0.43.120;FBBV/231020918;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/Ethio Telecom;FBMF/Asus;FBBD/Zenfone;FBPN/com.facebook.katana;FBDV/ASUS_X018D;FBSV/4;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/237.0.0.44.120;FBBV/170693384;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/Eswatini Mobile;FBMF/TECNO;FBBD/TECNO;FBPN/com.facebook.katana;FBDV/TECNO KE5j;FBSV/10;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/331.1.0.29.117;FBBV/286216165;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/Robi;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.katana;FBDV/SOG04;FBSV/7;nullFBCA/arm64-v8a:;]
