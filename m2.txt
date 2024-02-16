@@ -1,1 +1,2 @@
-[FBAN/FB4A;FBAV/399.0.0.24.93;FBBV/420811604;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Magyar Telekom;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/Infinix X5515F;FBSV/11;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/343.0.0.37.117;FBBV/308616431;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/airtel;FBMF/SKY;FBBD/SKY;FBPN/com.facebook.katana;FBDV/Elite A63;FBSV/9;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/227.0.0.43.158;FBBV/160467766;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Grameenphone;FBMF/Oukitel;FBBD/Oukitel;FBPN/com.facebook.katana;FBDV/WP17;FBSV/14;nullFBCA/armeabi-v7a:armeabi;]
