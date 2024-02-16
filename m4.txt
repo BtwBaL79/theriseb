@@ -1,3 +1,4 @@
+[FBAN/FB4A;FBAV/357.0.0.23.115;FBBV/311415020;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/Grameenphone;FBMF/Acer;FBBD/Acer;FBPN/com.facebook.katana;FBDV/ATAB1021E;FBSV/10;nullFBCA/arm64-v8a:;]
 [FBAN/FB4A;FBAV/316.0.0.54.116;FBBV/283218941;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/Airtel;FBMF/Coolpad;FBBD/Coolpad;FBPN/com.facebook.katana;FBDV/1825-I01;FBSV/9.0;nullFBCA/armeabi-v7a:armeabi;]
 [FBAN/Orca-Android;FBAV/260.0.0.42.118;FBBV/201518779;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Banglalink;FBMF/BMW;FBBD/bmw;FBPN/com.facebook.orca;FBDV/Z4;FBSV/14;nullFBCA/arm64-v8a:;]
 [FBAN/FB4A;FBAV/122.0.0.17.71;FBBV/56891632;FBDM/{density=2.5,width=1536,height=1280};FBLC/en_US;FBRV/253341991;FBCR/Dialog;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo Y25;FBSV/8.9.1;nullFBCA/armeabi-v7a:armeabi;]
