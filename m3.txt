@@ -1,2 +1,1 @@
-[FBAN/FB4A;FBAV/307.0.0.40.111;FBBV/274797363;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/MagtiCom;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/motorola one 5G ace;FBSV/3;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/418.0.0.33.69;FBBV/442611883;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/airtel;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G975N;FBSV/9.0;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/298.0.0.46.116;FBBV/259886945;FBDM/{density=3.5,width=768,height=1440};FBLC/en_US;FBRV/242219424;FB_FW/2;FBCR/Robi Axiata;FBMF/Lanix;FBBD/Lanix;FBPN/com.facebook.katana;FBDV/Lanix M5e;FBSV/10.9.6;FBOP/1;FBCA/arm64-v8a:;]
