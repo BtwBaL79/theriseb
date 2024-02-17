@@ -1,1 +1,2 @@
-[FBAN/FB4A;FBAV/298.0.0.46.116;FBBV/259886945;FBDM/{density=3.5,width=768,height=1440};FBLC/en_US;FBRV/242219424;FB_FW/2;FBCR/Robi Axiata;FBMF/Lanix;FBBD/Lanix;FBPN/com.facebook.katana;FBDV/Lanix M5e;FBSV/10.9.6;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/375.1.0.28.111;FBBV/315015375;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/airtel;FBMF/Realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/Realme XT;FBSV/5;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/194.0.0.42.99;FBBV/127867930;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/VODAFONE BD;FBMF/AWOW;FBBD/AWOW;FBPN/com.facebook.katana;FBDV/MID_1085_EEA;FBSV/3;nullFBCA/arm64-v8a:;]
