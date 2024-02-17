@@ -1,1 +1,2 @@
-[FBAN/FB4A;FBAV/50.0.0.10.54;FBBV/16053535;FBDM/{density=4.0,width=1125,height=812};FBLC/en_US;FBRV/365822555;FBCR/Eswatini Mobile;FBMF/Condor;FBBD/Condor;FBPN/com.facebook.katana;FBDV/SP414;FBSV/7.0;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/299.0.0.51.236;FBBV/261476335;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/null;FBMF/Pixel;FBBD/Pixel;FBPN/com.facebook.katana;FBDV/Pixel 7a;FBSV/13;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/195.0.0.35.99;FBBV/128710107;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/axis;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/LT-C3750;FBSV/6;nullFBCA/arm64-v8a:;]
