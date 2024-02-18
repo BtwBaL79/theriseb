@@ -1,2 +1,1 @@
-[FBAN/FB4A;FBAV/50.0.0.10.54;FBBV/16053535;FBDM/{density=4.0,width=1125,height=812};FBLC/en_US;FBRV/365822555;FBCR/Eswatini Mobile;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/X710L;FBSV/4.3;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/191.0.0.35.96;FBBV/125357973;FBDM/{density=2.0,width=1200,height=812};FBLC/en_US;FBCR/Deutsche Telekom;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/Y28;FBSV/4.2.2;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/331.1.0.29.117;FBBV/286216165;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/Tata Docomo;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-X806E;FBSV/5;nullFBCA/arm64-v8a:;]
