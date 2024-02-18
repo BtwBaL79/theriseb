@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/331.1.0.29.117;FBBV/286216165;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/Tata Docomo;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-X806E;FBSV/5;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/331.1.0.29.117;FBBV/286216165;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/Banglalink;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-X806E;FBSV/5;nullFBCA/arm64-v8a:;]
