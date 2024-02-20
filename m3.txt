@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/382.0.0.33.111;FBBV/316416485;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/Airtel;FBMF/Symphony;FBBD/Symphony;FBPN/com.facebook.katana;FBDV/G50;FBSV/5;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/295.0.0.36.119;FBBV/254634744;FBDM/{density=2.0,width=720,height=1424};FBLC/en_US;FBRV/256299347;FBCR/airtel;FBMF/Allview;FBBD/Allview;FBPN/com.facebook.katana;FBDV/A10 Plus;FBSV/8.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
