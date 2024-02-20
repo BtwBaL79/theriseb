@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/190.0.0.34.94;FBBV/124536011;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Grameenphone;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/Infinix X5515F;FBSV/8.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/69.0.0.26.76;FBBV/25862460;FBDM/{density=1.5,width=540,height=888};FBLC/en_US;FBCR/AT&amp-T;FBMF/Allview;FBBD/allview;FBPN/com.facebook.katana;FBDV/803G;FBSV/9.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
