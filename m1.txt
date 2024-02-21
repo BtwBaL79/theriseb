@@ -1,1 +1,2 @@
-[FBAN/FB4A;FBAV/251.0.0.31.111;FBBV/188828003;FBDM/{density=2.0,width=720,height=1407};FBLC/en_US;FBRV/0;FBCR/Airtel;FBMF/Energizer;FBBD/Energizer;FBPN/com.facebook.katana;FBDV/Max P490;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/50.0.0.10.54;FBBV/16053535;FBDM/{density=4.0,width=1125,height=812};FBLC/en_US;FBRV/365822555;FBCR/telicom 4.5G;FBMF/LG;FBBD/LG;FBPN/com.facebook.katana;FBDV/L50;FBSV/4.4.2;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/191.0.0.35.96;FBBV/125357973;FBDM/{density=2.0,width=1200,height=812};FBLC/en_US;FBCR/null;FBMF/ANS;FBBD/ANS;FBPN/com.facebook.katana;FBDV/UL40;FBSV/7.1;FBCA/arm64-v8a:;]
