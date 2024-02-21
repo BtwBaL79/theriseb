@@ -1,2 +1,2 @@
-[FBAN/FB4A;FBAV/401.0.0.24.77;FBBV/421209723;FBDM/{density=1.5,width=1200,height=800};FBLC/en_US;FBCR/AT&T;FBMF/Allview;FBBD/Allview;FBPN/com.facebook.katana;FBDV/P6_Energy;FBSV/5.0;FBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/90.0.0.20.70;FBBV/36474238;FBDM/{density=4.0,width=1200,height=1024};FBLC/en_US;FBRV/299560442;FBCR/Movicel;FBMF/Amplify;FBBD/Amplify;FBPN/com.facebook.katana;FBDV/TR10CD3;FBSV/4.2.2;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/401.0.0.24.77;FBBV/421209723;FBDM/{density=1.5,width=1200,height=800};FBLC/en_US;FBCR/Airtel;FBMF/Accent;FBBD/Accent;FBPN/com.facebook.katana;FBDV/CAMELEON C5;FBSV/9.0;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/90.0.0.20.70;FBBV/36474238;FBDM/{density=4.0,width=1200,height=1024};FBLC/en_US;FBRV/299560442;FBCR/Movicel;FBMF/acer;FBBD/acer;FBPN/com.facebook.katana;FBDV/GT-810;FBSV/5.1;nullFBCA/armeabi-v7a:armeabi;]
