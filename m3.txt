@@ -1,1 +1,4 @@
-[FBAN/FB4A;FBAV/292.0.0.60.123;FBBV/250937654;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/MTC;FBMF/itel;FBBD/itel;FBPN/com.facebook.katana;FBDV/itel A507LX;FBSV/13;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/371.0.0.24.109;FBBV/314214459;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/Telcel;FBMF/Xiaomi;FBBD/Poco;FBPN/com.facebook.katana;FBDV/22031116AI;FBSV/14;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/219.0.0.42.114;FBBV/152362346;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/MTC BD;FBMF/DOCOMO;FBBD/SHARP;FBPN/com.facebook.katana;FBDV/SH-03J;FBSV/7;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/391.0.0.33.104;FBBV/318216484;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/;FBMF/TCL;FBBD/tcl;FBPN/com.facebook.katana;FBDV/5164D;FBSV/11;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/427.0.0.31.63;FBBV/444411021;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/tell me;FBMF/Microsoft;FBBD/Microsoft;FBPN/com.facebook.katana;FBDV/Surface Duo 2;FBSV/10;nullFBCA/arm64-v8a:;]
