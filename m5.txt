@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/211.0.0.43.112;FBBV/144693239;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/AT&amp-T;FBMF/Realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX2002;FBSV/3;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/314.0.0.43.119;FBBV/282818049;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/Telcel;FBMF/T-Mobile;FBBD/T-Mobile;FBPN/com.facebook.katana;FBDV/TMAF025G;FBSV/12;nullFBCA/arm64-v8a:;]
