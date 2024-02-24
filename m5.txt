@@ -1,4 +1,2 @@
-[FBAN/FB4A;FBAV/266.0.0.56.124;FBBV/209027740;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/Vodafone Idea;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SCG02;FBSV/11;nullFBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/265.0.0.61.103;FBBV/208173431;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/IND Airtel;FBMF/Philco;FBBD/Philco;FBPN/com.facebook.katana;FBDV/Philco TL7B;FBSV/2.3;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/255.0.0.33.121;FBBV/195354805;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/MTS India;FBMF/DuckDuckGo;FBBD/DuckDuckGo;FBPN/com.facebook.katana;FBDV/DuckDuckGo Privacy Browser_v5.77.2_apkpure.com.apk;FBSV/15;nullFBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/427.0.0.31.63;FBBV/444411021;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/BSNL Mobile;FBMF/Microsoft;FBBD/microsoft;FBPN/com.facebook.katana;FBDV/Surface Duo 2;FBSV/10;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/371.0.0.24.109;FBBV/314214459;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/BD Airtel;FBMF/EXCEED;FBBD/EXCEED;FBPN/com.facebook.katana;FBDV/E10W10;FBSV/4.6.7.0.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/280.0.0.44.122;FBBV/233235235;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/airtel;FBMF/Sharp;FBBD/Aquos;FBPN/com.facebook.katana;FBDV/SHG03;FBSV/4;nullFBCA/armeabi-v7a:armeabi;]
