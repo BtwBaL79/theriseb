@@ -1,2 +1,1 @@
-[FBAN/FB4A;FBAV/371.0.0.24.109;FBBV/314214459;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/BD Airtel;FBMF/EXCEED;FBBD/EXCEED;FBPN/com.facebook.katana;FBDV/E10W10;FBSV/4.6.7.0.1;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/280.0.0.44.122;FBBV/233235235;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/airtel;FBMF/Sharp;FBBD/Aquos;FBPN/com.facebook.katana;FBDV/SHG03;FBSV/4;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/357.0.0.23.115;FBBV/311415020;FBDM/{density=1.0,width=800,height=1024};FBLC/en_IN;FBCR/Aircel;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo X6S Plus;FBSV/13.7.4;FBCA/arm64-v8a:;]
