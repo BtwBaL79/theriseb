@@ -1,2 +1,1 @@
-[FBAN/FB4A;FBAV/265.0.0.61.103;FBBV/208173431;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Airtel;FBMF/Doogee;FBBD/Doogee;FBPN/com.facebook.katana;FBDV/Doogee Y8C;FBSV/2.3;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/363.0.0.30.112;FBBV/312616128;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/1010;FBMF/Sharp;FBBD/Sharp;FBPN/com.facebook.katana;FBDV/S7-SH;FBSV/9;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/297.0.0.36.116;FBBV/257460566;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/Grameenphone;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/FIG-LX1;FBSV/8.0;nullFBCA/armeabi-v7a:armeabi;]
