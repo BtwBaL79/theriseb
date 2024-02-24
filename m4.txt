@@ -1,2 +1,1 @@
-[FBAN/FB4A;FBAV/427.0.0.31.63;FBBV/444411021;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/MTC;FBMF/EPIKONE;FBBD/EPIKONE;FBPN/com.facebook.katana;FBDV/K501_Plus;FBSV/10.7.3.2;nullFBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/255.0.0.33.121;FBBV/195354805;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/airtel;FBMF/Lenovo;FBBD/Lenovo;FBPN/com.facebook.katana;FBDV/Lenovo K13 Note;FBSV/6;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/357.0.0.23.115;FBBV/311415020;FBDM/{density=1.0,width=800,height=1024};FBLC/en_US;FBCR/POST Luxembourg;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo X6S Plus;FBSV/13.7.4;FBCA/arm64-v8a:;]
