@@ -1,8 +1,2 @@
-[FBAN/FB4A;FBAV/225.0.0.47.118;FBBV/158425850;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Tata Docomo;FBMF/sony;FBBD/sony;FBPN/com.facebook.katana;FBDV/A002SO;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/342.0.0.37.119;FBBV/308417363;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Grameenphone;FBMF/Nokia;FBBD/Nokia;FBPN/com.facebook.katana;FBDV/Nokia G11;FBSV/11;nullFBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/211.0.0.43.112;FBBV/144693239;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Telcel;FBMF/Xiaomi;FBBD/redmi;FBPN/com.facebook.katana;FBDV/A1 B866V2F02;FBSV/11;nullFBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/378.0.0.18.112;FBBV/315613980;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/null;FBMF/iHunt;FBBD/iHunt;FBPN/com.facebook.katana;FBDV/Titan P8000 Pro 2021;FBSV/10.0;nullFBCA/armeabi-v7a:armeabi;]
-
-[FBAN/FB4A;FBAV/292.0.0.60.123;FBBV/250937654;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/MTC;FBMF/itel;FBBD/itel;FBPN/com.facebook.katana;FBDV/itel A507LX;FBSV/13;nullFBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/271.0.0.55.109;FBBV/215365644;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/airtel;FBMF/TECNO;FBBD/Tecno;FBPN/com.facebook.katana;FBDV/TECNO KJ7s;FBSV/13;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/314.0.0.43.119;FBBV/282818049;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/Telcel;FBMF/T-Mobile;FBBD/T-Mobile;FBPN/com.facebook.katana;FBDV/TMAF025G;FBSV/12;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/427.0.0.31.63;FBBV/444411021;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/MTC;FBMF/EPIKONE;FBBD/EPIKONE;FBPN/com.facebook.katana;FBDV/K501_Plus;FBSV/10.7.3.2;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/255.0.0.33.121;FBBV/195354805;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/airtel;FBMF/Lenovo;FBBD/Lenovo;FBPN/com.facebook.katana;FBDV/Lenovo K13 Note;FBSV/6;nullFBCA/arm64-v8a:;]
