@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/357.0.0.23.115;FBBV/311415020;FBDM/{density=1.0,width=800,height=1024};FBLC/en_IN;FBCR/Aircel;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo X6S Plus;FBSV/13.7.4;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/206.0.0.36.105;FBBV/139932195;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Jio;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/Infinix X660B;FBSV/3;nullFBCA/armeabi-v7a:armeabi;]
