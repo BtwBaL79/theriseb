@@ -1,3 +1,2 @@
-[FBAN/FB4A;FBAV/249.0.0.47.118;FBBV/186228239;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/null;FBMF/HUAWEI;FBBD/Honor;FBPN/com.facebook.katana;FBDV/COR-L29;FBSV/9.1;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/366.1.0.20.113;FBBV/313214197;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/VODAFONE MALAYSIA;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.katana;FBDV/SM-T547U;FBSV/9.0;nullFBCA/armeabi-v7a:armeabi;]
-FBAN/FB4A;FBAV/264.0.0.44.111;FBBV/206636693;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/airtel;FBMF/LIFETAB;FBBD/LIFETAB;FBPN/com.facebook.katana;FBDV/LIFETAB E1071X;FBSV/3;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/230.0.0.36.117;FBBV/162942669;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/V2124;FBSV/12;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/409.0.0.27.106;FBBV/440813707;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/Airtel;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.katana;FBDV/SM-J530FM;FBSV/15;nullFBCA/armeabi-v7a:armeabi;]
