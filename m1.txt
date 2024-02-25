@@ -1,3 +1,3 @@
-[FBAN/FB4A;FBAV/346.0.0.29.119;FBBV/309216088;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Banglalink;FBMF/TECNO;FBBD/TECNO;FBPN/com.facebook.katana;FBDV/TECNO B1c;FBSV/8.1;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/302.0.0.45.119;FBBV/268946212;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/null;FBMF/UMX;FBBD/UMX;FBPN/com.facebook.katana;FBDV/U696CL;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/303.0.0.30.122;FBBV/269803905;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/airtel;FBMF/ONEPLUS;FBBD/ONEPLUS;FBPN/com.facebook.katana;FBDV/ONEPLUS A6010;FBSV/4;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/284.0.0.50.107;FBBV/239634218;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/Grameenphone;FBMF/Doro;FBBD/Doro;FBPN/com.facebook.katana;FBDV/Doro 8100;FBSV/8.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/192.0.0.34.85;FBBV/126133156;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/null;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.katana;FBDV/SM-F900F;FBSV/15;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/241.0.0.39.120;FBBV/175428060;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/Airtel;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.katana;FBDV/SM-A516V;FBSV/12;nullFBCA/arm64-v8a:;]
