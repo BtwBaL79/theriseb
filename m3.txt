@@ -1,3 +1,2 @@
-[FBAN/FB4A;FBAV/360.0.0.30.113;FBBV/312015914;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/null;FBMF/UMIDIGI;FBBD/UMIDIGI;FBPN/com.facebook.katana;FBDV/BISON Pro;FBSV/5;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/232.0.0.35.115;FBBV/165032968;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Grameenphone;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/OPPO R9s;FBSV/3;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/382.0.0.33.111;FBBV/316416485;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/3;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.katana;FBDV/SM-G965U;FBSV/15;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/407.0.0.30.97;FBBV/440412261;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Axis;FBMF/Realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX2163;FBSV/3;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/427.0.0.31.63;FBBV/444411021;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/airtel;FBMF/Mobicel;FBBD/mobicel;FBPN/com.facebook.katana;FBDV/R1PLUS_1;FBSV/8;nullFBCA/armeabi-v7a:armeabi;]
