@@ -1,2 +1,1 @@
-[FBAN/FB4A;FBAV/231.0.0.39.113;FBBV/163964762;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Banglalink;FBMF/Pixel;FBBD/pixel;FBPN/com.facebook.katana;FBDV/Pixel 3a;FBSV/3;nullFBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/341.0.0.30.73;FBBV/308212462;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/null Mobile;FBMF/Sony;FBBD/sony;FBPN/com.facebook.katana;FBDV/SOV42;FBSV/3;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/318.0.0.39.154;FBBV/283621019;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/Asia Mobile;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.katana;FBDV/SO-52B;FBSV/13;nullFBCA/arm64-v8a:;]
