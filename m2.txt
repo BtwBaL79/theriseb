@@ -1,2 +1,2 @@
-[FBAN/FB4A;FBAV/352.0.0.20.117;FBBV/310414731;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/null;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo 1933;FBSV/7;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/317.0.0.51.119;FBBV/283419120;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/Tata Docomo;FBMF/LGR;FBBD/lge;FBPN/com.facebook.katana;FBDV/LM-Q815L;FBSV/8.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/352.0.0.20.117;FBBV/310414731;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/vule id ay;FBMF/vivo ai phone a;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo 1934;FBSV/7;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/317.0.0.51.119;FBBV/283419120;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/Tata Docomo;FBMF/LGE;FBBD/lge;FBPN/com.facebook.katana;FBDV/LM-Q815L;FBSV/8.1;nullFBCA/armeabi-v7a:armeabi;]
