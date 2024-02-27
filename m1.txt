@@ -1,1 +1,2 @@
-[FBAN/FB4A;FBAV/731.0.0.3.128;FBBV/977840529;FBDM/{density=1.0,width=1080,height=1080};FBLC/en_en;FBRV/879107526;203695415;FBCR/Banglalink;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/SNE-LX1;FBSV/10;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/375.1.0.28.111;FBBV/315015375;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/Telma;FBMF/Pixel;FBBD/Pixel;FBPN/com.facebook.katana;FBDV/Pixel 4a (5G);FBSV/9;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/328.1.0.28.119;FBBV/285616312;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/null;FBMF/Lenovo;FBBD/Lenovo;FBPN/com.facebook.katana;FBDV/Lenovo ThinkPad 11e 3rd Gen Chromebook;FBSV/5;nullFBCA/armeabi-v7a:armeabi;]
