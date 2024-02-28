@@ -1,2 +1,2 @@
-[FBAN/FB4A;FBAV/300.2.0.58.129;FBBV/265245015;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/Grameenphone;FBMF/ONN;FBBD/ONN;FBPN/com.facebook.katana;FBDV/100092980;FBSV/12;nullFBCA/arm64-v8a:;] 
-[FBAN/FB4A;FBAV/382.0.0.33.111;FBBV/316416485;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/Telenor;FBMF/HP;FBBD/HP;FBPN/com.facebook.katana;FBDV/HP Chromebook x360 11 G1 EE;FBSV/8;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/364.1.0.25.132;FBBV/312816921;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Grameenphone;FBMF/F2 MOBILE;FBBD/F2 Mobile;FBPN/com.facebook.katana;FBDV/i8_ROKR;FBSV/11;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/406.0.0.26.90;FBBV/440212037;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/null;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A705YN;FBSV/11.3.1;nullFBCA/armeabi-v7a:armeabi;]
