@@ -1,2 +1,2 @@
-[FBAN/FB4A;FBAV/375.1.0.28.111;FBBV/315015375;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/Telma;FBMF/Pixel;FBBD/Pixel;FBPN/com.facebook.katana;FBDV/Pixel 4a (5G);FBSV/9;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/328.1.0.28.119;FBBV/285616312;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/null;FBMF/Lenovo;FBBD/Lenovo;FBPN/com.facebook.katana;FBDV/Lenovo ThinkPad 11e 3rd Gen Chromebook;FBSV/5;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/375.0.0.26.111;FBBV/315015017;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/Airtel;FBMF/UMIDIGI;FBBD/UMIDIGI;FBPN/com.facebook.katana;FBDV/A11 Pro Max;FBSV/13;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/375.0.0.26.111;FBBV/315015017;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Banglalink;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/2304FPN6DG;FBSV/14;nullFBCA/arm64-v8a:;]
