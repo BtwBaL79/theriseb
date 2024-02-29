@@ -1,2 +1,3 @@
-[FBAN/FB4A;FBAV/364.1.0.25.132;FBBV/312816921;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Grameenphone;FBMF/F2 MOBILE;FBBD/F2 Mobile;FBPN/com.facebook.katana;FBDV/i8_ROKR;FBSV/11;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/406.0.0.26.90;FBBV/440212037;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/null;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A705YN;FBSV/11.3.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/262.0.0.34.117;FBBV/203997157;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/airtel;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G950F;FBSV/7.0;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/198.0.0.48.101;FBBV/131333749;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/Tata Docomo;FBMF/ASUS;FBBD/ROG;FBPN/com.facebook.katana;FBDV/ZS673KS;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/253.0.0.28.116;FBBV/193013915;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/null;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/V2108;FBSV/11.1;nullFBCA/arm64-v8a:;] 
