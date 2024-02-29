@@ -1,2 +1,1 @@
-[FBAN/FB4A;FBAV/364.1.0.25.132;FBBV/312816921;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Grameenphone;FBMF/F2 MOBILE;FBBD/F2 Mobile;FBPN/com.facebook.katana;FBDV/i8_ROKR;FBSV/11;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/406.0.0.26.90;FBBV/440212037;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/null;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A705YN;FBSV/11.3.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/361.0.0.39.115;FBBV/312217351;FBDM/{density=2.5,width=1600,height=812};FBLC/en_US;FBCR/Our Telekom;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/DN2101;FBSV/13.4.8;FBCA/arm64-v8a:;]
