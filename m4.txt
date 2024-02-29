@@ -1,1 +1,2 @@
-[FBAN/FB4A;FBAV/380.0.0.29.109;FBBV/316015926;FBDM/{density=3.0,width=800,height=800};FBLC/en_US;FBRV/343243720;FB_FW/2;FBCR/Orange;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/Infinix X627V;FBSV/8.5.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/238.0.0.41.116;FBBV/171725783;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/;FBMF/SHARP;FBBD/SHARP;FBPN/com.facebook.katana;FBDV/SH-54B;FBSV/11;nullFBCA/arm64-v8a:;] 
+[FBAN/FB4A;FBAV/283.0.0.31.121;FBBV/237966513;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/airtel;FBMF/SCHOK;FBBD/SCHOK;FBPN/com.facebook.katana;FBDV/Schok Volt SV55;FBSV/11;nullFBCA/armeabi-v7a:armeabi;] 
