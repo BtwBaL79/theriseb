@@ -1,2 +1,1 @@
-[FBAN/FB4A;FBAV/239.0.0.41.152;FBBV/172860670;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Grameenphone;FBMF/Cubot;FBBD/cubot;FBPN/com.facebook.katana;FBDV/KINGKONG 5 Pro;FBSV/11;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/394.1.0.51.107;FBBV/318819992;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/airtel;FBMF/Lenovo;FBBD/lenovo;FBPN/com.facebook.katana;FBDV/Lenovo K10;FBSV/9.0;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/305.0.0.40.120;FBBV/272369098;FBDM/{density=3.5,width=1600,height=1366};FBLC/en_US;FBRV/253534407;FB_FW/2;FBCR/San Marino Telecom;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/MT2110;FBSV/10.4.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
