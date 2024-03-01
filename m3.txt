@@ -1,3 +1,2 @@
-[FBAN/FB4A;FBAV/313.0.0.35.119;FBBV/282616749;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/;FBMF/Pixel;FBBD/Pixel;FBPN/com.facebook.katana;FBDV/Pixel 4 XL;FBSV/13;nullFBCA/armeabi-v7a:armeabi;] 
-[FBAN/FB4A;FBAV/275.0.0.49.127;FBBV/221372446;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/Tata Docomo;FBMF/TECLAST;FBBD/TECLAST;FBPN/com.facebook.katana;FBDV/T40 PRO_ROW;FBSV/11;nullFBCA/armeabi-v7a:armeabi;] 
-[FBAN/FB4A;FBAV/399.0.0.24.93;FBBV/420811604;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/null;FBMF/rockchip;FBBD/rockchip;FBPN/com.facebook.katana;FBDV/ZC-339;FBSV/9;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/222.0.0.48.113;FBBV/155323327;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Safaricom;FBMF/Sony;FBBD/sony;FBPN/com.facebook.katana;FBDV/H8324;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/363.0.0.30.112;FBBV/312616128;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/Telma;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/SHARK PRS-H0;FBSV/11;nullFBCA/arm64-v8a:;] 
