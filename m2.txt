@@ -1,2 +1,1 @@
-[FBAN/FB4A;FBAV/322.0.0.35.121;FBBV/284416989;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/MTC;FBMF/スマ通;FBBD/Rakuten;FBPN/com.facebook.katana;FBDV/3917JR;FBSV/10;nullFBCA/arm64-v8a:;] 
-[FBAN/FB4A;FBAV/317.0.0.51.119;FBBV/283419120;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Deutsche Telekom;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-M205G;FBSV/8.1;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/305.0.0.40.120;FBBV/272369098;FBDM/{density=3.5,width=1600,height=1366};FBLC/en_US;FBRV/253534407;FB_FW/2;FBCR/San Marino Telecom;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/MT2110;FBSV/10.4.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
