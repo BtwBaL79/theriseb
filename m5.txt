@@ -1,1 +1,2 @@
-[FBAN/FB4A;FBAV/305.0.0.40.120;FBBV/272369098;FBDM/{density=3.5,width=1600,height=1366};FBLC/en_US;FBRV/253534407;FB_FW/2;FBCR/San Marino Telecom;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/MT2110;FBSV/10.4.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/211.0.0.43.112;FBBV/144693239;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/AT&amp-T;FBMF/IRA;FBBD/IRA;FBPN/com.facebook.katana;FBDV/ira_s1;FBSV/10;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/50.0.0.10.54;FBBV/16053535;FBDM/{density=4.0,width=1125,height=812};FBLC/en_US;FBRV/365822555;FBCR/Eswatini Mobile;FBMF/vsmart;FBBD/vsmart;FBPN/com.facebook.katana;FBDV/joy 2+;FBSV/9.9.3;nullFBCA/armeabi-v7a:armeabi;]
