@@ -1,5 +1,3 @@
-[FBAN/Orca-Android;FBAV/305.1.0.40.120;FBBV/272401224;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Tata Docomo;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.orca;FBDV/V2120;FBSV/11.1;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/Orca-Android;FBAV/360.0.0.30.113;FBBV/312015914;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/MTS India;FBMF/Motorola;FBBD/motorola;FBPN/com.facebook.orca;FBDV/moto e6s;FBSV/9;nullFBCA/arm64-v8a:;]
-[FBAN/Orca-Android;FBAV/222.0.0.48.113;FBBV/155323327;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/airtel;FBMF/LGE;FBBD/lge;FBPN/com.facebook.orca;FBDV/LGM-G600K;FBSV/7.0;nullFBCA/arm64-v8a:;] 
-[FBAN/Orca-Android;FBAV/367.2.0.26.107;FBBV/313413508;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/Airtel;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.orca;FBDV/21051182C;FBSV/14;nullFBCA/armeabi-v7a:armeabi;] 
-[FBAN/Orca-Android;FBAV/279.0.0.43.120;FBBV/231020918;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Jio;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.orca;FBDV/Redmi Note 5 Pro;FBSV/7.1.2;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/Orca-Android;FBAV/387.0.0.24.102;FBBV/317416518;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Namaste;FBMF/Q LINK;FBBD/WIRELESS;FBPN/com.facebook.orca;FBDV/Scepter 8 Tablet;FBSV/9;nullFBCA/arm64-v8a:;]
+[FBAN/Orca-Android;FBAV/189.0.0.35.91;FBBV/123791219;FBDM/{density=3.5,width=720,height=1440};FBLC/en_US;FBRV/301490001;FB_FW/2;FBCR/FSMTC;FBMF/Realme;FBBD/Realme;FBPN/com.facebook.orca;FBDV/RMX3061;FBSV/9.3.9;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/Orca-Android;FBAV/407.0.0.30.97;FBBV/440412261;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Vodafone Idea;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.orca;FBDV/vivo Y85A;FBSV/10;nullFBCA/arm64-v8a:;]
