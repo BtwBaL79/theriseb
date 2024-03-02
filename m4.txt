@@ -1,3 +1,4 @@
 [FBAN/Orca-Android;FBAV/210.0.0.43.119;FBBV/143667885;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Aircel;FBMF/Doogee;FBBD/doogee;FBPN/com.facebook.orca;FBDV/S90Pro;FBSV/9.3.4;nullFBCA/armeabi-v7a:armeabi;]    
 [FBAN/Orca-Android;FBAV/189.0.0.35.91;FBBV/123791219;FBDM/{density=3.5,width=720,height=1440};FBLC/en_US;FBRV/301490001;FB_FW/2;FBCR/IND Airtel;FBMF/Realme;FBBD/Realme;FBPN/com.facebook.orca;FBDV/RMX2185;FBSV/10;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 [FBAN/Orca-Android;FBAV/189.0.0.35.91;FBBV/123791219;FBDM/{density=3.5,width=720,height=1440};FBLC/en_US;FBRV/301490001;FB_FW/2;FBCR/FSMTC;FBMF/Realme;FBBD/Realme;FBPN/com.facebook.orca;FBDV/RMX3061;FBSV/9.3.9;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/Orca-Android;FBAV/267.1.0.46.120;FBBV/210653367;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Jio;FBMF/TECNO;FBBD/TECNO;FBPN/com.facebook.orca;FBDV/TECNO CH6i;FBSV/13;nullFBCA/arm64-v8a:;]
