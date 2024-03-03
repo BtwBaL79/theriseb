@@ -1,3 +1,1 @@
-[FBAN/Orca-Android;FBAV/385.0.0.32.114;FBBV/317016274;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Telenor India;FBMF/honor;FBBD/honor;FBPN/com.facebook.orca;FBDV/JAT-L41;FBSV/9;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/Orca-Android;FBAV/189.0.0.35.91;FBBV/123791219;FBDM/{density=3.5,width=720,height=1440};FBLC/en_US;FBRV/301490001;FB_FW/2;FBCR/Aircel IN;FBMF/adoc;FBBD/adoc;FBPN/com.facebook.orca;FBDV/d30;FBSV/4.4.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
-[FBAN/Orca-Android;FBAV/189.0.0.35.91;FBBV/123791219;FBDM/{density=3.5,width=720,height=1440};FBLC/en_US;FBRV/301490001;FB_FW/2;FBCR/IND airtel;FBMF/RCA;FBBD/RCA;FBPN/com.facebook.orca;FBDV/rct6613w23pg;FBSV/8.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/Orca-Android;FBAV/231.0.0.39.113;FBBV/163964762;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/airtel;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.orca;FBDV/Infinix X657C;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
