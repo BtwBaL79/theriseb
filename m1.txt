@@ -1,2 +1,3 @@
+[FBAN/FB4A;FBAV/198.0.0.53.101;FBBV/131501675;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/Robi;FBMF/xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Redmi Note 5;FBSV/5;nullFBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/289.0.0.40.121;FBBV/246888155;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Mobitel;FBMF/CONQUEST;FBBD/CONQUEST;FBPN/com.facebook.katana;FBDV/conquest-S20;FBSV/11;nullFBCA/arm64-v8a:;]
 [FBAN/FB4A;FBAV/342.0.0.37.119;FBBV/308417363;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Robi rio;FBMF/haoqin;FBBD/haoqin;FBPN/com.facebook.katana;FBDV/e7;FBSV/10;nullFBCA/arm64-v8a:;]
