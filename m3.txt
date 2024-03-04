@@ -1,4 +1,1 @@
-[FBAN/FB4A;FBAV/270.1.0.66.127;FBBV/214895118;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/Robi Axiata;FBMF/EXCEED;FBBD/EXCEED;FBPN/com.facebook.katana;FBDV/ex7w1;FBSV/9;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/202.0.0.40.99;FBBV/135515094;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/null;FBMF/LAVA;FBBD/lava;FBPN/com.facebook.katana;FBDV/le9920_p;FBSV/13;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/296.0.0.44.119;FBBV/255824605;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Banglalink;FBMF/Zebra;FBBD/technologies;FBPN/com.facebook.katana;FBDV/et56;FBSV/8.1;nullFBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/139.0.0.22.93;FBBV/69940369;FBDM/{density=2.5,width=768,height=1280};FBLC/en_US;FBRV/350077257;FBCR/Mobilis;FBMF/ZTE;FBBD/ZTE;FBPN/com.facebook.katana;FBDV/zte 8150n;FBSV/13;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/232.0.0.35.115;FBBV/165032968;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/Airtel;FBMF/ASUS;FBBD/asus;FBPN/com.facebook.katana;FBDV/Zenfone Max Pro M1;FBSV/8.1;nullFBCA/armeabi-v7a:armeabi;]
