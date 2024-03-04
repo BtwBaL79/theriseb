@@ -1,2 +1,1 @@
-[FBAN/FB4A;FBAV/296.0.0.44.119;FBBV/255824605;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/POST Luxembourg;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/POT-LX1AF;FBSV/9;nullFBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/139.0.0.22.93;FBBV/69940369;FBDM/{density=2.5,width=768,height=1280};FBLC/en_US;FBRV/350077257;FBCR/Mobilis;FBMF/ONN;FBBD/ONN;FBPN/com.facebook.katana;FBDV/100005208-ca;FBSV/13.5.9;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/283.0.0.31.121;FBBV/237966513;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/Grameenphone;FBMF/Acer;FBBD/Acer;FBPN/com.facebook.katana;FBDV/Acer One 10 T4-129LI;FBSV/9;nullFBCA/armeabi-v7a:armeabi;]
