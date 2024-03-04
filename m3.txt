@@ -1,1 +1,2 @@
-[FBAN/FB4A;FBAV/232.0.0.35.115;FBBV/165032968;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/Airtel;FBMF/ASUS;FBBD/asus;FBPN/com.facebook.katana;FBDV/Zenfone Max Pro M1;FBSV/8.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/296.0.0.44.119;FBBV/255824605;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/MagtiCom;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/OPPOR9st;FBSV/11;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/241.0.0.39.120;FBBV/175428060;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/Deutsche Telekom;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.katana;FBDV/G8341;FBSV/8.0;nullFBCA/armeabi-v7a:armeabi;]
