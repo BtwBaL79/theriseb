@@ -1,2 +1,2 @@
-[FBAN/FB4A;FBAV/303.0.0.30.122;FBBV/269803905;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/Grameenphone;FBMF/honeywell;FBBD/honeywell;FBPN/com.facebook.katana;FBDV/ck65;FBSV/10;nullFBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/295.0.0.34.119;FBBV/254426061;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Banglalink;FBMF/Nokia;FBBD/nokia;FBPN/com.facebook.katana;FBDV/nokia t10;FBSV/8.0;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/248.1.0.44.116;FBBV/184540721;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/MTC;FBMF/Motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/Motorola Defy;FBSV/2.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/196.0.0.41.95;FBBV/129523926;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/AT&amp-T;FBMF/Cyrus;FBBD/cyrus;FBPN/com.facebook.katana;FBDV/CS45XA;FBSV/9.0;nullFBCA/arm64-v8a:;]
