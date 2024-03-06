@@ -1,2 +1,2 @@
-[FBAN/FB4A;FBAV/296.0.0.44.119;FBBV/255824605;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/MagtiCom;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/OPPOR9st;FBSV/11;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/241.0.0.39.120;FBBV/175428060;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/Deutsche Telekom;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.katana;FBDV/G8341;FBSV/8.0;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/260.0.0.42.118;FBBV/201518779;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/airtel;FBMF/Reeder;FBBD/Reeder;FBPN/com.facebook.katana;FBDV/P13 Blue Max Lite 32GB;FBSV/11.0;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/394.0.0.50.107;FBBV/318819784;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/1010;FBMF/Multilaser;FBBD/multilaser;FBPN/com.facebook.katana;FBDV/Multilaser_G;FBSV/9.0;nullFBCA/armeabi-v7a:armeabi;]
