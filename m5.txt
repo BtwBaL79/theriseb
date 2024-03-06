@@ -1,2 +1,2 @@
-[FBAN/FB4A;FBAV/402.0.0.21.84;FBBV/421409151;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/airtel;FBMF/ZTE;FBBD/ZTE;FBPN/com.facebook.katana;FBDV/ZTE Blade A53;FBSV/12;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/33.0.0.0.1;FBBV/9018335;FBDM/{density=2.5,width=800,height=736};FBLC/en_US;FBRV/240862875;FB_FW/2;FBCR/Irancell;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/mi 5s;FBSV/11.7.4;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/277.0.0.41.126;FBBV/227128646;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Robi rio;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Mi MIX 3 5G;FBSV/9.0;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/326.0.0.34.120;FBBV/285217161;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/null;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A037W;FBSV/12;nullFBCA/armeabi-v7a:armeabi;]
