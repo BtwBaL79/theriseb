@@ -1,2 +1,2 @@
-[FBAN/FB4A;FBAV/248.1.0.44.116;FBBV/184540721;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/MTC;FBMF/Motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/Motorola Defy;FBSV/2.1;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/196.0.0.41.95;FBBV/129523926;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/AT&amp-T;FBMF/Cyrus;FBBD/cyrus;FBPN/com.facebook.katana;FBDV/CS45XA;FBSV/9.0;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/313.0.0.35.119;FBBV/282616749;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/null;FBMF/Lava;FBBD/Lava;FBPN/com.facebook.katana;FBDV/LAVA LZX414;FBSV/13;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/380.0.0.29.109;FBBV/316015926;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Airtel;FBMF/ASUS;FBBD/Asus;FBPN/com.facebook.katana;FBDV/ASUS AI2203;FBSV/12;nullFBCA/arm64-v8a:;]
