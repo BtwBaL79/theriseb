@@ -1,2 +1,5 @@
-[FBAN/FB4A;FBAV/277.0.0.41.126;FBBV/227128646;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Robi rio;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Mi MIX 3 5G;FBSV/9.0;nullFBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/326.0.0.34.120;FBBV/285217161;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/null;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A037W;FBSV/12;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/313.0.0.35.119;FBBV/282616749;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Safaricom;FBMF/TECNO;FBBD/TECNO;FBPN/com.facebook.katana;FBDV/TECNO BD4;FBSV/11;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/380.0.0.29.109;FBBV/316015926;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Tata Docomo;FBMF/Realme;FBBD/Realme;FBPN/com.facebook.katana;FBDV/RMX1992;FBSV/10;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/338.1.0.36.118;FBBV/307617358;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/Telenor bd;FBMF/Hisense;FBBD/Hisense;FBPN/com.facebook.katana;FBDV/Hisense V60;FBSV/10;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/377.0.0.22.107;FBBV/315414711;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Airtel;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/V1962A;FBSV/10.0;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/324.0.0.48.120;FBBV/284819083;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/airtel;FBMF/UMX;FBBD/UMX;FBPN/com.facebook.katana;FBDV/U693CL;FBSV/5;nullFBCA/arm64-v8a:;]
