@@ -1,2 +1,1 @@
-[FBAN/FB4A;FBAV/260.0.0.42.118;FBBV/201518779;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/airtel;FBMF/Reeder;FBBD/Reeder;FBPN/com.facebook.katana;FBDV/P13 Blue Max Lite 32GB;FBSV/11.0;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/394.0.0.50.107;FBBV/318819784;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/1010;FBMF/Multilaser;FBBD/multilaser;FBPN/com.facebook.katana;FBDV/Multilaser_G;FBSV/9.0;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/219.0.0.42.114;FBBV/152362346;FBDM/{density=1.5,width=1080,height=1280};FBLC/en_US;FBRV/273598511;FBCR/Altice;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/moto e40;FBSV/8.3.1;nullFBCA/arm64-v8a:;]
