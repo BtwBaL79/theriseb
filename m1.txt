@@ -1,1 +1,2 @@
-[FBAN/FB4A;FBAV/417.0.0.33.65;FBBV/442410873;FBDM/{density=2.0,width=2048,height=1024};FBLC/en_US;FBCR/Emtel;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Redmi 9i;FBSV/12.8.4;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/419.0.0.37.71;FBBV/442812559;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/Eswatini Mobile;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.katana;FBDV/H3213;FBSV/8.0;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/409.0.0.27.106;FBBV/440813707;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/Teletalk;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/CPH2321;FBSV/11.1;nullFBCA/arm64-v8a:;]
