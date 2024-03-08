@@ -1,2 +1,1 @@
-[FBAN/FB4A;FBAV/203.0.0.16.293;FBBV/137424444;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/AT&amp-T;FBMF/ZTE;FBBD/ZTE;FBPN/com.facebook.katana;FBDV/ZTE A2019G Pro;FBSV/8.1;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/320.0.0.34.118;FBBV/284016955;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/Irancell;FBMF/LGE;FBBD/lge;FBPN/com.facebook.katana;FBDV/LM-X420;FBSV/8.1;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/270.1.0.66.127;FBBV/214895118;FBDM/{density=1.5,width=720,height=736};FBLC/en_US;FBRV/402743211;FB_FW/2;FBCR/KPN;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/CPH1709;FBSV/12.3.8;FBOP/1;FBCA/armeabi-v7a:armeabi;]
