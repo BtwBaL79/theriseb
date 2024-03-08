@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/247.0.0.42.116;FBBV/182642037;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/IND Airtel;FBMF/MERCEDES;FBBD/BENZ;FBPN/com.facebook.katana;FBDV/A140;FBSV/15;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/Orca-Android;FBAV/295.0.0.34.119;FBBV/254426061;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Vodafone Idea;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.orca;FBDV/AL250;FBSV/3;nullFBCA/armeabi-v7a:armeabi;]
