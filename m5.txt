@@ -1,2 +1,2 @@
-[FBAN/FB4A;FBAV/409.0.0.27.106;FBBV/440813707;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Airtel;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/SKR-H0;FBSV/8.0;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/375.1.0.28.111;FBBV/315015375;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Grameenphone;FBMF/iHunt;FBBD/iHunt;FBPN/com.facebook.katana;FBDV/iHunt S22 PLUS;FBSV/11;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/220.0.0.46.112;FBBV/153408057;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/Deutsche Telekom;FBMF/DIGMA;FBBD/digma;FBPN/com.facebook.katana;FBDV/Optima 8250C TS8274AW;FBSV/11;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/313.0.0.35.119;FBBV/282616749;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/Grameenphone;FBMF/BYYBUO;FBBD/BYYBUO;FBPN/com.facebook.katana;FBDV/BYYBUO_SmartPad_T10;FBSV/13;nullFBCA/armeabi-v7a:armeabi;]
