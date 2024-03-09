@@ -1,2 +1,2 @@
-[FBAN/FB4A;FBAV/235.0.0.38.118;FBBV/168314968;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/null;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/ANG-LX1;FBSV/10;nullFBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/304.0.0.39.118;FBBV/271126404;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/Robi;FBMF/Sharp;FBBD/Aquos;FBPN/com.facebook.katana;FBDV/R3;FBSV/10;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/368.0.0.24.108;FBBV/313613498;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/Telma;FBMF/SHARP;FBBD/sharp;FBPN/com.facebook.katana;FBDV/803SH;FBSV/9.0;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/398.0.0.21.105;FBBV/420612354;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Banglalink;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J600F;FBSV/8.0;nullFBCA/arm64-v8a:;]
