@@ -1,2 +1,2 @@
-[FBAN/FB4A;FBAV/332.0.0.23.111;FBBV/286414668;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Irancell;FBMF/GENERAL;FBBD/general;FBPN/com.facebook.katana;FBDV/GM 9 Plus;FBSV/9;nullFBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/242.0.0.43.119;FBBV/176515204;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/airtel;FBMF/BLU;FBBD/BLU;FBPN/com.facebook.katana;FBDV/M8L 2022;FBSV/11;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/398.0.0.21.105;FBBV/420612354;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Banglalink;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-E135F;FBSV/13;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/319.0.0.39.120;FBBV/284012886;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/AT&amp-T;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/Galaxy J4+;FBSV/8.1;nullFBCA/armeabi-v7a:armeabi;]
