@@ -1,2 +1,2 @@
-[FBAN/FB4A;FBAV/368.0.0.24.108;FBBV/313613498;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/Telma;FBMF/SHARP;FBBD/sharp;FBPN/com.facebook.katana;FBDV/803SH;FBSV/9.0;nullFBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/398.0.0.21.105;FBBV/420612354;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Banglalink;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J600F;FBSV/8.0;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/284.0.0.50.107;FBBV/239634218;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Robi;FBMF/ZTE;FBBD/ZTE;FBPN/com.facebook.katana;FBDV/Blade A3 2019-T;FBSV/9.0;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/353.0.0.34.116;FBBV/310616677;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/MagtiCom;FBMF/Realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX3261;FBSV/10;nullFBCA/arm64-v8a:;]
