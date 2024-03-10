@@ -1,2 +1,2 @@
-[FBAN/FB4A;FBAV/413.0.0.30.104;FBBV/441615153;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/Safaricom;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/Infinix X695D;FBSV/11;nullFBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/367.0.0.24.107;FBBV/313412960;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/Airtel;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo NEX;FBSV/8.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/407.0.0.30.97;FBBV/440412261;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/MTC;FBMF/Amazon;FBBD/Amazon;FBPN/com.facebook.katana;FBDV/AFTSO001;FBSV/5.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/376.0.0.12.108;FBBV/315213325;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/Airtel;FBMF/LGE;FBBD/lge;FBPN/com.facebook.katana;FBDV/LM-V405;FBSV/8.1;nullFBCA/arm64-v8a:;]
