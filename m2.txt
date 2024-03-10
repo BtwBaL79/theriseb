@@ -1,5 +1,2 @@
-[FBAN/FB4A;FBAV/411.1.0.29.112;FBBV/441216522;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/Airtel;FBMF/Kyocera;FBBD/kyocera;FBPN/com.facebook.katana;FBDV/E6910;FBSV/8.0;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/211.0.0.43.112;FBBV/144693239;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Eswatini Mobile;FBMF/realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX1927;FBSV/9;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/122.0.0.17.71;FBBV/56891632;FBDM/{density=4.0,width=768,height=736};FBLC/en_US;FBRV/264173435;FB_FW/2;FBCR/Ncell;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo V20;FBSV/12.4.9;FBOP/1;FBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/284.0.0.50.107;FBBV/239634218;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Robi;FBMF/ZTE;FBBD/ZTE;FBPN/com.facebook.katana;FBDV/Blade A3 2019-T;FBSV/9.0;nullFBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/353.0.0.34.116;FBBV/310616677;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/MagtiCom;FBMF/Realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX3261;FBSV/10;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/280.0.0.44.122;FBBV/233235235;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Grameenphone;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A5000;FBSV/7.1.1;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/228.0.0.41.124;FBBV/161383643;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/Irancell;FBMF/LGE;FBBD/lge;FBPN/com.facebook.katana;FBDV/LG-US998;FBSV/7.1.2;nullFBCA/armeabi-v7a:armeabi;]
