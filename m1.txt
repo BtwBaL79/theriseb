@@ -1,2 +1,2 @@
-[FBAN/FB4A;FBAV/398.0.0.21.105;FBBV/420612354;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Banglalink;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-E135F;FBSV/13;nullFBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/319.0.0.39.120;FBBV/284012886;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/AT&amp-T;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/Galaxy J4+;FBSV/8.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/284.0.0.50.107;FBBV/239634218;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Djezzy;FBMF/ZTE;FBBD/ZTE;FBPN/com.facebook.katana;FBDV/NX669J;FBSV/11;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/359.0.0.30.118;FBBV/311816631;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Banglalink;FBMF/ROCKCHIP;FBBD/rockchip;FBPN/com.facebook.katana;FBDV/X88MAX.p2.0.01.d4;FBSV/9;nullFBCA/arm64-v8a:;]
