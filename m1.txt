@@ -1,2 +1,2 @@
-[FBAN/FB4A;FBAV/284.0.0.50.107;FBBV/239634218;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Djezzy;FBMF/ZTE;FBBD/ZTE;FBPN/com.facebook.katana;FBDV/NX669J;FBSV/11;nullFBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/359.0.0.30.118;FBBV/311816631;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Banglalink;FBMF/ROCKCHIP;FBBD/rockchip;FBPN/com.facebook.katana;FBDV/X88MAX.p2.0.01.d4;FBSV/9;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/248.1.0.44.116;FBBV/184540721;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/TN Mobile;FBMF/VONINO;FBBD/vonino;FBPN/com.facebook.katana;FBDV/Pluri_M7_2020;FBSV/9.0;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/219.0.0.42.114;FBBV/152362346;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Safaricom;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/V2111;FBSV/11;nullFBCA/arm64-v8a:;]
