@@ -1,3 +1,5 @@
 [FBAN/FB4A;FBAV/222.0.0.48.113;FBBV/155323327;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/airtel;FBMF/SHARP;FBBD/sharp;FBPN/com.facebook.katana;FBDV/S5-SH;FBSV/9.0;nullFBCA/arm64-v8a:;]
 [FBAN/FB4A;FBAV/378.0.0.18.112;FBBV/315613980;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/POST Luxembourg;FBMF/SKY;FBBD/SKY;FBPN/com.facebook.katana;FBDV/Elite C5;FBSV/10;nullFBCA/arm64-v8a:;]
 [FBAN/FB4A;FBAV/419.0.0.37.71;FBBV/442812559;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Altice;FBMF/CORN;FBBD/CORN;FBPN/com.facebook.katana;FBDV/CORN X55;FBSV/7;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/383.0.0.23.106;FBBV/316614371;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/Airtel;FBMF/iQOO;FBBD/iQOO;FBPN/com.facebook.katana;FBDV/I2203;FBSV/12;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/214.0.0.43.83;FBBV/147376170;FBDM/{density=4.0,width=1200,height=1440};FBLC/en_US;FBRV/288069170;FB_FW/2;FBCR/Telma;FBMF/SHARP;FBBD/sharp;FBPN/com.facebook.katana;FBDV/D-41A;FBSV/13.5.5;FBOP/1;FBCA/armeabi-v7a:armeabi;]
