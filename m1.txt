@@ -1,2 +1,2 @@
-[FBAN/FB4A;FBAV/248.1.0.44.116;FBBV/184540721;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/TN Mobile;FBMF/VONINO;FBBD/vonino;FBPN/com.facebook.katana;FBDV/Pluri_M7_2020;FBSV/9.0;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/219.0.0.42.114;FBBV/152362346;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Safaricom;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/V2111;FBSV/11;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/185.0.0.39.72;FBBV/120757044;FBDM/{density=1.5,width=768,height=800};FBLC/en_US;FBRV/321719815;FBCR/airtel;FBMF/ACER;FBBD/acer;FBPN/com.facebook.katana;FBDV/AS8W;FBSV/11.6.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/139.0.0.22.93;FBBV/69940369;FBDM/{density=2.5,width=768,height=1280};FBLC/en_US;FBRV/350077257;FBCR/Mobilis;FBMF/ACKEES;FBBD/ACKEES;FBPN/com.facebook.katana;FBDV/V10401;FBSV/8.0;nullFBCA/armeabi-v7a:armeabi;]
