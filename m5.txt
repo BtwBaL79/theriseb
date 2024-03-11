@@ -1,2 +1,2 @@
-[FBAN/FB4A;FBAV/400.0.0.37.76;FBBV/421011115;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/airtel;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.katana;FBDV/E6533;FBSV/5.0;nullFBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/252.0.0.22.355;FBBV/191850036;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/Emtel;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/MI MAX 3;FBSV/8.1;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/191.0.0.35.96;FBBV/125357973;FBDM/{density=2.0,width=1200,height=812};FBLC/en_US;FBCR/Deutsche Telekom;FBMF/DEPLAY;FBBD/deplay;FBPN/com.facebook.katana;FBDV/BS703_EEA;FBSV/3.9.1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/45.0.0.0.33;FBBV/14271154;FBDM/{density=2.0,width=750,height=1440};FBLC/en_US;FBRV/331905537;FB_FW/2;FBCR/Djezzy;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/Infinix X510;FBSV/5.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
