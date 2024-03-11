@@ -1,2 +1,2 @@
-[FBAN/FB4A;FBAV/336.0.0.20.117;FBBV/287214784;FBDM/{density=4.0,width=1200,height=812};FBLC/en_US;FBCR/MagtiCom;FBMF/AllView;FBBD/allview;FBPN/com.facebook.katana;FBDV/ Viva H1003 LTE;FBSV/10;FBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/50.0.0.10.54;FBBV/16053535;FBDM/{density=4.0,width=1125,height=812};FBLC/en_US;FBRV/365822555;FBCR/Eswatini Mobile;FBMF/Auchan;FBBD/Auchan;FBPN/com.facebook.katana;FBDV/ST19071;FBSV/5.9.3;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/292.0.0.60.123;FBBV/250937654;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/AT&amp-T;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Mi 9T;FBSV/8;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/224.0.0.33.114;FBBV/157411927;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Banglalink;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/LE2101;FBSV/10;nullFBCA/arm64-v8a:;]
