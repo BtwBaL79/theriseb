@@ -1,1 +1,2 @@
-[FBAN/Orca-Android;FBAV/295.0.0.34.119;FBBV/254426061;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Vodafone Idea;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.orca;FBDV/AL250;FBSV/3;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/226.0.0.49.120;FBBV/159526651;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Banglalink;FBMF/AT&T;FBBD/AT&T;FBPN/com.facebook.katana;FBDV/U328AA;FBSV/8;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/389.0.0.42.111;FBBV/317817218;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/KPN;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-T815;FBSV/5.0.2;nullFBCA/armeabi-v7a:armeabi;]
