@@ -1,2 +1,2 @@
-[FBAN/FB4A;FBAV/367.2.0.26.107;FBBV/313413508;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Mobilis;FBMF/AMAZON;FBBD/amazon;FBPN/com.facebook.katana;FBDV/KFONWI;FBSV/9.0;nullFBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/237.0.0.44.120;FBBV/170693384;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Airtel;FBMF/HTC;FBBD/HTC;FBPN/com.facebook.katana;FBDV/HTC Desire 20+;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/211.0.0.43.112;FBBV/144693239;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Airtel;FBMF/ZTE;FBBD/ZTE;FBPN/com.facebook.katana;FBDV/ISE-T100C;FBSV/11;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/185.0.0.39.72;FBBV/120757044;FBDM/{density=1.5,width=768,height=800};FBLC/en_US;FBRV/321719815;FBCR/MTC;FBMF/ZTE;FBBD/ZTE;FBPN/com.facebook.katana;FBDV/K87CA;FBSV/7.1.1;nullFBCA/armeabi-v7a:armeabi;]
