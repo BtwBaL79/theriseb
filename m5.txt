@@ -1,2 +1,6 @@
 [FBAN/FB4A;FBAV/386.0.0.35.108;FBBV/317217654;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/airtel;FBMF/OUKITEL;FBBD/oukitel;FBPN/com.facebook.katana;FBDV/Digi C2;FBSV/9.0;nullFBCA/arm64-v8a:;]
 [FBAN/FB4A;FBAV/252.0.0.22.355;FBBV/191850036;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/null;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/V1816T;FBSV/8.1;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/225.0.0.47.118;FBBV/158425850;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/Reliance Robi;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/HD1900;FBSV/12.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/268.1.0.54.121;FBBV/211681886;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Mobilis;FBMF/INOI;FBBD/inoi;FBPN/com.facebook.katana;FBDV/INOI 7 2020;FBSV/9.0;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/365.0.0.30.112;FBBV/313015266;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/null;FBMF/SPRD;FBBD/sprd;FBPN/com.facebook.katana;FBDV/sp7731e_1h10_native;FBSV/5.5.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/405.1.0.28.72;FBBV/440003403;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Airtel;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-T385K;FBSV/7.1;nullFBCA/armeabi-v7a:armeabi;]
