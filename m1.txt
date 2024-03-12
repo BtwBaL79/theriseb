@@ -1,2 +1,2 @@
-[FBAN/FB4A;FBAV/186.0.0.48.81;FBBV/121473356;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Telecel;FBMF/SONY;FBBD/sony;FBPN/com.facebook.katana;FBDV/I4113;FBSV/9.0;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/415.0.0.34.107;FBBV/442016421;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Robi;FBMF/KYOCERA;FBBD/kyocera;FBPN/com.facebook.katana;FBDV/KYV44_u;FBSV/8.0;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/63.0.0.37.81;FBBV/21778670;FBDM/{density=2.5,width=2048,height=800};FBLC/en_US;FBCR/airtel;FBMF/ACEPAD;FBBD/ACEPAD;FBPN/com.facebook.katana;FBDV/AX1;FBSV/10.2.5;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/162.0.0.45.94;FBBV/95632808;FBDM/{density=3.5,width=1536,height=1366};FBLC/en_US;FBRV/273685933;FBCR/Telecel;FBMF/ACER;FBBD/acer;FBPN/com.facebook.katana;FBDV/A1-734;FBSV/6.0;nullFBCA/arm64-v8a:;]
