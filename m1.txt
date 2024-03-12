@@ -1,2 +1,2 @@
-[FBAN/FB4A;FBAV/63.0.0.37.81;FBBV/21778670;FBDM/{density=2.5,width=2048,height=800};FBLC/en_US;FBCR/airtel;FBMF/ACEPAD;FBBD/ACEPAD;FBPN/com.facebook.katana;FBDV/AX1;FBSV/10.2.5;FBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/162.0.0.45.94;FBBV/95632808;FBDM/{density=3.5,width=1536,height=1366};FBLC/en_US;FBRV/273685933;FBCR/Telecel;FBMF/ACER;FBBD/acer;FBPN/com.facebook.katana;FBDV/A1-734;FBSV/6.0;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/63.0.0.37.81;FBBV/21778670;FBDM/{density=2.5,width=2048,height=800};FBLC/en_US;FBCR/airtel;FBMF/TCL;FBBD/TCL;FBPN/com.facebook.katana;FBDV/4188O;FBSV/10.2.5;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/302.0.0.45.119;FBBV/268946212;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/Teletalk;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A015A;FBSV/10;nullFBCA/arm64-v8a:;]
