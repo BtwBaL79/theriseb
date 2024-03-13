@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/131.0.0.32.69;FBBV/64191639;FBDM/{density=3.0,width=750,height=1366};FBLC/en_US;FBCR/Safaricom;FBMF/Amazon;FBBD/Amazon;FBPN/com.facebook.katana;FBDV/Fire HD 10 (2017);FBSV/9.6.6;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/353.0.0.34.116;FBBV/349723247;FBDM/{density=2.0,width=720,height=1407};FBLC/en_US;FBRV/351349224;FBCR/null;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo 1901;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
