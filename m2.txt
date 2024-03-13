@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/427.0.0.31.63;FBBV/444411021;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Mobilis;FBMF/TECNO;FBBD/TECNO;FBPN/com.facebook.katana;FBDV/Camon i;FBSV/7.0;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/454.1.0.49.104;FBBV/574523160;FBDM/{density=2.0,width=720,height=1400};FBLC/en_US;FBRV/576127262;FBCR/Banglalink;FBMF/itel;FBBD/Itel;FBPN/com.facebook.katana;FBDV/itel L6005;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
