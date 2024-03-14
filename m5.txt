@@ -1,1 +1,2 @@
-[FBAN/FB4A;FBAV/454.1.0.49.104;FBBV/574523160;FBDM/{density=2.0,width=720,height=1400};FBLC/en_US;FBRV/576127262;FBCR/AT&amp-T;FBMF/CAMFONE;FBBD/Camfone;FBPN/com.facebook.katana;FBDV/Hero SE2;FBSV/8.1;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/270.1.0.66.127;FBBV/214895118;FBDM/{density=1.5,width=720,height=736};FBLC/en_US;FBRV/402743211;FB_FW/2;FBCR/KPN;FBMF/Refurbished;FBBD/evoo;FBPN/com.facebook.katana;FBDV/ev-a-133-1;FBSV/9.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/352.0.0.20.117;FBBV/310414731;FBDM/{density=3.5,width=1200,height=1024};FBLC/en_US;FBRV/237981618;FB_FW/2;FBCR/Magenta;FBMF/Redway;FBBD/redway;FBPN/com.facebook.katana;FBDV/redway_7;FBSV/9.0;FBOP/1;FBCA/arm64-v8a:;]
