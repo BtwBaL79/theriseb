@@ -1,2 +1,2 @@
-[FBAN/FB4A;FBAV/270.1.0.66.127;FBBV/214895118;FBDM/{density=1.5,width=720,height=736};FBLC/en_US;FBRV/402743211;FB_FW/2;FBCR/KPN;FBMF/Refurbished;FBBD/evoo;FBPN/com.facebook.katana;FBDV/ev-a-133-1;FBSV/9.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/352.0.0.20.117;FBBV/310414731;FBDM/{density=3.5,width=1200,height=1024};FBLC/en_US;FBRV/237981618;FB_FW/2;FBCR/Magenta;FBMF/Redway;FBBD/redway;FBPN/com.facebook.katana;FBDV/redway_7;FBSV/9.0;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/395.0.0.27.214;FBBV/319025405;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/null;FBMF/LeEco;FBBD/LeEco;FBPN/com.facebook.katana;FBDV/C106;FBSV/5.6;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/197.0.0.46.98;FBBV/130483514;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/airtel;FBMF/Lenovo;FBBD/Lenovo;FBPN/com.facebook.katana;FBDV/Lenovo TB-X306X;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
