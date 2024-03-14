@@ -1,2 +1,2 @@
-[FBAN/FB4A;FBAV/454.1.0.49.104;FBBV/574523160;FBDM/{density=2.0,width=720,height=1400};FBLC/en_US;FBRV/576127262;FBCR/AT&amp-T;FBMF/CILICO;FBBD/CILICO;FBPN/com.facebook.katana;FBDV/c6;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/336.0.0.20.117;FBBV/287214784;FBDM/{density=4.0,width=1200,height=812};FBLC/en_US;FBCR/MagtiCom;FBMF/Datalogic;FBBD/datalogic;FBPN/com.facebook.katana;FBDV/memor 1;FBSV/8.1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/344.0.0.34.116;FBBV/308816234;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Banglalink;FBMF/INFINIX;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/Infinix X670;FBSV/12;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/243.0.0.47.108;FBBV/178056619;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/Mobitel;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-T509;FBSV/12;nullFBCA/arm64-v8a:;]
