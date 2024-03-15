@@ -1,2 +1,1 @@
-[FBAN/FB4A;FBAV/227.0.0.43.158;FBBV/160467766;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/Ncell;FBMF/Google;FBBD/google;FBPN/com.facebook.katana;FBDV/Pixel 4a (5G);FBSV/14;nullFBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/206.0.0.36.105;FBBV/139932195;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/Airtel;FBMF/Fujitsu;FBBD/Fujitsu;FBPN/com.facebook.katana;FBDV/arrowsRX;FBSV/9.0;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/192.0.0.34.85;FBBV/126133156;FBDM/{density=2.0,width=1600,height=812};FBLC/en_US;FBCR/Malitel;FBMF/Amazon;FBBD/Amazon;FBPN/com.facebook.katana;FBDV/T76N2P;FBSV/9.2.4;FBCA/armeabi-v7a:armeabi;]
