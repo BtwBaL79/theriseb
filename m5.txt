@@ -1,2 +1,2 @@
-[FBAN/FB4A;FBAV/260.0.0.42.118;FBBV/201518779;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/MTC;FBMF/VinSmart;FBBD/VinSmart;FBPN/com.facebook.katana;FBDV/V350C;FBSV/10;nullFBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/361.0.0.39.115;FBBV/312217351;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Irancell;FBMF/ZTE;FBBD/ZTE;FBPN/com.facebook.katana;FBDV/P609;FBSV/9.0;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/198.0.0.53.101;FBBV/131501675;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/Eswatini;FBMF/Hisense;FBBD/Hisense;FBPN/com.facebook.katana;FBDV/HLTE230E;FBSV/10;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/360.0.0.30.113;FBBV/312015914;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Telecel;FBMF/Cubot;FBBD/Cubot;FBPN/com.facebook.katana;FBDV/KINGKONG 5;FBSV/11;nullFBCA/armeabi-v7a:armeabi;]
