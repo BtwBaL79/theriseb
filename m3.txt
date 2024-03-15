@@ -1,2 +1,2 @@
-[FBAN/FB4A;FBAV/357.0.0.23.115;FBBV/311415020;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/Magenta;FBMF/INFINIX;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/Infinix X6511E;FBSV/11;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/238.0.0.41.116;FBBV/171725783;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/airtel;FBMF/SOHO;FBBD/soho;FBPN/com.facebook.katana;FBDV/SS5514G;FBSV/9;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/184.0.0.41.79;FBBV/119894354;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/Telecel;FBMF/Hisense;FBBD/Hisense;FBPN/com.facebook.katana;FBDV/Hisense Infinity H60 Lite;FBSV/11;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/224.0.0.33.114;FBBV/157411927;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/Grameenphone;FBMF/Skorpio;FBBD/Skorpio;FBPN/com.facebook.katana;FBDV/Skorpio X5;FBSV/12;nullFBCA/arm64-v8a:;]
