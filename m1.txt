@@ -1,1 +1,2 @@
-[FBAN/FB4A;FBAV/192.0.0.34.85;FBBV/126133156;FBDM/{density=2.0,width=1600,height=812};FBLC/en_US;FBCR/Malitel;FBMF/Amazon;FBBD/Amazon;FBPN/com.facebook.katana;FBDV/T76N2P;FBSV/9.2.4;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/194.0.0.42.99;FBBV/127867930;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/TN Mobile;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.katana;FBDV/H4113;FBSV/8.0;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/352.0.0.20.117;FBBV/310414731;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Grameenphone;FBMF/Realme;FBBD/Realme;FBPN/com.facebook.katana;FBDV/RMX2085;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
