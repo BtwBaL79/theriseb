@@ -1,2 +1,2 @@
-[FBAN/FB4A;FBAV/211.0.0.43.112;FBBV/144693239;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/Mobitel;FBMF/Itel;FBBD/itel;FBPN/com.facebook.katana;FBDV/itel A512W;FBSV/11;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/243.0.0.49.108;FBBV/178248449;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/;FBMF/LGE;FBBD/lge;FBPN/com.facebook.katana;FBDV/LM-Q910;FBSV/8.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/219.0.0.42.114;FBBV/152362346;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/Safaricom;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Redmi Note 7;FBSV/9.0;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/390.0.0.27.105;FBBV/318014885;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/Robi;FBMF/Lenovo;FBBD/Lenovo;FBPN/com.facebook.katana;FBDV/LenovoTB-X606F;FBSV/10.3;nullFBCA/arm64-v8a:;]
