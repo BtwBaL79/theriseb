@@ -1,2 +1,2 @@
-[FBAN/FB4A;FBAV/375.1.0.28.111;FBBV/315015375;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/AT&amp-T;FBMF/Evoo;FBBD/Evoo;FBPN/com.facebook.katana;FBDV/EV-A-81-8-18;FBSV/8.1;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/400.0.0.37.76;FBBV/421011115;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Teletalk;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/CPH2009;FBSV/10;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/300.2.0.58.129;FBBV/265245015;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Telma;FBMF/Wiko;FBBD/Wiko;FBPN/com.facebook.katana;FBDV/W-V850-OPE;FBSV/10;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/253.0.0.28.116;FBBV/193013915;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Irancell;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo 1933;FBSV/10.0;nullFBCA/arm64-v8a:;]
