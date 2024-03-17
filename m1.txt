@@ -1,2 +1,2 @@
-[FBAN/FB4A;FBAV/391.1.0.37.104;FBBV/318217130;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/MagtiCom;FBMF/Ascom;FBBD/ascom;FBPN/com.facebook.katana;FBDV/Ascom Myco 3;FBSV/11;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/232.0.0.35.115;FBBV/165032968;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/BanglalinkFBMF/SUGAR;FBBD/sugar;FBPN/com.facebook.katana;FBDV/SUGAR C60;FBSV/11;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/369.0.0.18.103;FBBV/313811870;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Tata Docomo;FBMF/Doogee;FBBD/Doogee;FBPN/com.facebook.katana;FBDV/S61Pro;FBSV/12;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/247.0.0.42.116;FBBV/182642037;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/null;FBMF/Archer;FBBD/Archer;FBPN/com.facebook.katana;FBDV/C80;FBSV/5G;nullFBCA/arm64-v8a:;]
