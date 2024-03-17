@@ -1,2 +1,2 @@
-[FBAN/FB4A;FBAV/194.0.0.42.99;FBBV/127867930;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/TN Mobile;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.katana;FBDV/H4113;FBSV/8.0;nullFBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/352.0.0.20.117;FBBV/310414731;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Grameenphone;FBMF/Realme;FBBD/Realme;FBPN/com.facebook.katana;FBDV/RMX2085;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/391.1.0.37.104;FBBV/318217130;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/MagtiCom;FBMF/Ascom;FBBD/ascom;FBPN/com.facebook.katana;FBDV/Ascom Myco 3;FBSV/11;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/232.0.0.35.115;FBBV/165032968;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/BanglalinkFBMF/SUGAR;FBBD/sugar;FBPN/com.facebook.katana;FBDV/SUGAR C60;FBSV/11;nullFBCA/armeabi-v7a:armeabi;]
