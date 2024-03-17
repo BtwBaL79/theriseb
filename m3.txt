@@ -1,2 +1,2 @@
-[FBAN/FB4A;FBAV/197.0.0.46.98;FBBV/130483514;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/Magenta;FBMF/Lenovo ;FBBD/Lenovo ;FBPN/com.facebook.katana;FBDV/Z2 Plus;FBSV/6.0.1;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/292.0.0.61.123;FBBV/251145638;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/Banglalink;FBMF/SKY;FBBD/SKY;FBPN/com.facebook.katana;FBDV/Elite P55Max;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/375.1.0.28.111;FBBV/315015375;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/AT&amp-T;FBMF/Evoo;FBBD/Evoo;FBPN/com.facebook.katana;FBDV/EV-A-81-8-18;FBSV/8.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/400.0.0.37.76;FBBV/421011115;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Teletalk;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/CPH2009;FBSV/10;nullFBCA/arm64-v8a:;]
