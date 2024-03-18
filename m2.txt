@@ -1,1 +1,2 @@
-[FBAN/FB4A;FBAV/379.0.0.24.109;FBBV/315814638;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Mobilis;FBMF/Honeywell;FBBD/Honeywell;FBPN/com.facebook.katana;FBDV/CT60;FBSV/8.0;nullFBCA/armeabi-v7a:armeabi,25,3.2;]
+[FBAN/FB4A;FBAV/396.1.0.28.104;FBBV/319214969);FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/Teletalk;FBMF/Realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX1811;FBSV/8.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/391.1.0.37.104;FBBV/318217130;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/Grameenphone;FBMF/TCL;FBBD/TCL;FBPN/com.facebook.katana;FBDV/T767H;FBSV/11;nullFBCA/arm64-v8a:;]
