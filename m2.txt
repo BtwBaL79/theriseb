@@ -1,2 +1,1 @@
-[FBAN/FB4A;FBAV/379.0.0.24.109;FBBV/315814638;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Airtel 4G;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Redmi Note 8T;FBSV/9.0;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/390.0.0.27.105;FBBV/318014885;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Mobilis;FBMF/Portal;FBBD/Portal;FBPN/com.facebook.katana;FBDV/PortalMini;FBSV/12;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/379.0.0.24.109;FBBV/315814638;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Mobilis;FBMF/Honeywell;FBBD/Honeywell;FBPN/com.facebook.katana;FBDV/CT60;FBSV/8.0;nullFBCA/armeabi-v7a:armeabi,25,3.2;]
