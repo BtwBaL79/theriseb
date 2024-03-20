@@ -1,2 +1,3 @@
-[FBAN/FB4A;FBAV/330.0.0.31.120;FBBV/286016007;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/airtel;FBMF/Ulefone;FBBD/Ulefone;FBPN/com.facebook.katana;FBDV/Note 8P;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/214.0.0.43.83;FBBV/147376170;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/airtel;FBMF/Itel;FBBD/itel;FBPN/com.facebook.katana;FBDV/itel W6002E;FBSV/7;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/188.0.0.44.81;FBBV/123131246;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Banglalink;FBMF/INFINIX;FBBD/infinix;FBPN/com.facebook.katana;FBDV/Infinix X5516B;FBSV/9.0;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/219.0.0.42.114;FBBV/152362346;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/Grameenphone;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.katana;FBDV/XQ-AD51;FBSV/9;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/185.0.0.39.72;FBBV/120757044;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/airtel;FBMF/Fujitsu;FBBD/Fujitsu;FBPN/com.facebook.katana;FBDV/F-42A;FBSV/10;nullFBCA/arm64-v8a:;]
