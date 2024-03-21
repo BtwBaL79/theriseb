@@ -1,2 +1,1 @@
-[FBAN/FB4A;FBAV/380.0.0.29.109;FBBV/316015926;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/Telemor;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/P8;FBSV/4.4.2;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/309.0.0.47.119;FBBV/281818581;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/Google;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo Z1i;FBSV/8.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/401.0.0.24.77;FBBV/421209723;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/NTC;FBMF/Realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX2030;FBSV/9.0;nullFBCA/armeabi-v7a:armeabi;]
