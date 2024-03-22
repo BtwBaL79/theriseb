@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/319.0.0.39.120;FBBV/284012886;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/eSIM;FBMF/Amazon;FBBD/amazon;FBPN/com.facebook.katana;FBDV/KFTRPWI;FBSV/8;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/271.0.0.55.109;FBBV/215365644;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Banglalink;FBMF/Vodafone;FBBD/vodafone;FBPN/com.facebook.katana;FBDV/VFD 510;FBSV/7.1;nullFBCA/arm64-v8a:;]
