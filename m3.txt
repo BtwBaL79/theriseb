@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/379.0.0.24.109;FBBV/315814638;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Smart Cell;FBMF/BDF;FBBD/BDF;FBPN/com.facebook.katana;FBDV/BDF-M107;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/207.0.0.33.100;FBBV/140791845;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/Mobitel;FBMF/Vodafone;FBBD/vodafone;FBPN/com.facebook.katana;FBDV/Smart prime 7;FBSV/6.0.1;nullFBCA/arm64-v8a:;]
