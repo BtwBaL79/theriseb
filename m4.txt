@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/394.0.0.50.107;FBBV/318819784;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/Eswatini Mobile;FBMF/Coolpad;FBBD/Coolpad;FBPN/com.facebook.katana;FBDV/cp3705AS;FBSV/9.0;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/285.0.0.43.120;FBBV/240747247;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/Irancell;FBMF/Sharp;FBBD/Sharp;FBPN/com.facebook.katana;FBDV/SH-M19;FBSV/11;nullFBCA/arm64-v8a:;]
