@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/207.0.0.33.100;FBBV/140791845;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/Mobitel;FBMF/Vodafone;FBBD/vodafone;FBPN/com.facebook.katana;FBDV/Smart prime 7;FBSV/6.0.1;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/357.0.0.23.115;FBBV/311415020;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Maxis;FBMF/Symphony;FBBD/symphony;FBPN/com.facebook.katana;FBDV/i71;FBSV/11;nullFBCA/arm64-v8a:;]
