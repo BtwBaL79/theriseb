@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/218.0.0.46.109;FBBV/151380998;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/Free Mobile;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo 1851;FBSV/8.1;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/228.0.0.41.124;FBBV/161383643;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/Virgin Mobile;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Redmi Note 9 Pro;FBSV/10;nullFBCA/arm64-v8a:;]
