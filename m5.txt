@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/270.1.0.66.127;FBBV/214895118;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/SoftBank;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-Z300H;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/302.0.0.45.119;FBBV/268946212;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/AMTOB;FBMF/ZTE;FBBD/ZTE;FBPN/com.facebook.katana;FBDV/Blade V;FBSV/4.1;nullFBCA/armeabi-v7a:armeabi:;]
