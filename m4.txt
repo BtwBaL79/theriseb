@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/285.0.0.43.120;FBBV/240747247;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/Mobitel;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SPH-W9500;FBSV/1.1.6;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/346.0.0.29.119;FBBV/309216088;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Robi;FBMF/Orange;FBBD/Orange;FBPN/com.facebook.katana;FBDV/Orange San Diego;FBSV/2.3.7;nullFBCA/arm64-v8a:;]
