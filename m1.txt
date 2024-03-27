@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/308.0.0.42.118;FBBV/275987610;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Banglalink;FBMF/teclast;FBBD/teclast;FBPN/com.facebook.katana;FBDV/T50_ROW;FBSV/14;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/278.0.0.51.119;FBBV/229281747;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Grameenphone;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.katana;FBDV/H3123;FBSV/8.0;nullFBCA/arm64-v8a:;]
