@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/247.0.0.42.116;FBBV/182642037;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Robi;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/V2126;FBSV/12;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/183.0.0.39.75;FBBV/119103913;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/Mobitel;FBMF/LOGIC;FBBD/LOGIC;FBPN/com.facebook.katana;FBDV/LOGIC L63;FBSV/11;nullFBCA/arm64-v8a:;]
