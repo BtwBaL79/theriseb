@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/289.0.0.40.121;FBBV/246888155;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/KPN;FBMF/Hisense;FBBD/hisense;FBPN/com.facebook.katana;FBDV/Hisense E50 128G;FBSV/10.0;nullFBCA/armeabi-v7a:armeabi:;]
+[FBAN/FB4A;FBAV/237.0.0.44.120;FBBV/170693384;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/AT&amp-T;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/V2032;FBSV/10.5;nullFBCA/arm64-v8a:;]
