@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/189.0.0.35.91;FBBV/123791219;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/airtel;FBMF/Coolpad;FBBD/Coolpad;FBPN/com.facebook.katana;FBDV/Y83-I00;FBSV/6;nullFBCA/armeabi-v7a:armeabi:;]
+[FBAN/FB4A;FBAV/415.0.0.34.107;FBBV/442016421;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/airtel;FBMF/Lenovo;FBBD/Lenovo;FBPN/com.facebook.katana;FBDV/TB328FU;FBSV/11;nullFBCA/arm64-v8a:;]
