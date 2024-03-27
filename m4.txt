@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/183.0.0.39.75;FBBV/119103913;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/Mobitel;FBMF/LOGIC;FBBD/LOGIC;FBPN/com.facebook.katana;FBDV/LOGIC L63;FBSV/11;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/353.0.0.34.116;FBBV/310616677;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/Grameenphone;FBMF/ASUS;FBBD/asus;FBPN/com.facebook.katana;FBDV/ASUS_X00QD;FBSV/8.0;nullFBCA/armeabi-v7a:armeabi;]
