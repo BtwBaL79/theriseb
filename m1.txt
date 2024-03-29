@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/273.0.0.39.123;FBBV/218047935;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/POST Luxembourg;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/Y91;FBSV/8.1;nullFBCA/armeabi-v7a:armeabi:;]
+[FBAN/FB4A;FBAV/343.0.0.37.117;FBBV/308616431;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/AXIS;FBMF/SHARP;FBBD/sharp;FBPN/com.facebook.katana;FBDV/SH-53C;FBSV/13;nullFBCA/armeabi-v7a:armeabi;]
