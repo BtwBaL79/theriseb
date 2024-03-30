@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/222.0.0.10.118;FBBV/253197554;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Monaco Telecom;FBMF/NGM;FBBD/NGM;FBPN/com.facebook.katana;FBDV/E553;FBSV/6.0;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/319.0.0.39.120;FBBV/284012886;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/Timor Telecom;FBMF/TECNO;FBBD/TECNO;FBPN/com.facebook.katana;FBDV/TECNO KE6;FBSV/10;nullFBCA/arm64-v8a:;]
