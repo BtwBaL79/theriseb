@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/346.0.0.29.119;FBBV/309216088;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/Banglalink;FBMF/KASSEL;FBBD/kassel;FBPN/com.facebook.katana;FBDV/SK3404;FBSV/11.0;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/231.0.0.39.113;FBBV/163964762;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Our Telekom;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-N9300;FBSV/6.0.1;nullFBCA/armeabi-v7a:armeabi:;]
