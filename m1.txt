@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/183.0.0.39.75;FBBV/119103913;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/airtel;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.katana;FBDV/SOV42;FBSV/9;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/248.1.0.44.116;FBBV/184540721;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/MTS India;FBMF/Sony;FBBD/sony;FBPN/com.facebook.katana;FBDV/SO-41B;FBSV/11;nullFBCA/arm64-v8a:;]
