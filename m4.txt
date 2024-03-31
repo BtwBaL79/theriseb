@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/296.0.0.44.119;FBBV/255824605;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/AXIS;FBMF/Haier;FBBD/haier;FBPN/com.facebook.katana;FBDV/Haier Alpha A1;FBSV/8.1;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/305.0.0.40.120;FBBV/272369098;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Kiribati WiFi;FBMF/Atom;FBBD/Atom;FBPN/com.facebook.katana;FBDV/Atom_L;FBSV/11;nullFBCA/arm64-v8a:;]
