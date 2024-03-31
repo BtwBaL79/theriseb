@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/330.0.0.31.120;FBBV/286016007;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Mobitel;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/OnePlus A3000;FBSV/6.0.1;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/255.0.0.33.121;FBBV/195354805;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/POST Luxembourg;FBMF/ASUS;FBBD/asus;FBPN/com.facebook.katana;FBDV/Z00UD;FBSV/6;nullFBCA/armeabi-v7a:armeabi;]
