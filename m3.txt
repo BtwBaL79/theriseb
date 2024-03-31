@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/342.0.0.37.119;FBBV/308417363;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/Grameenphone;FBMF/ZTE;FBBD/ZTE;FBPN/com.facebook.katana;FBDV/A1 Alpha 21;FBSV/9.0;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/193.0.0.45.101;FBBV/127048952;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/Safaricom;FBMF/Wiko;FBBD/Wiko;FBPN/com.facebook.katana;FBDV/W-V770;FBSV/11;nullFBCA/arm64-v8a:;]
