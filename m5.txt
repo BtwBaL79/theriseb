@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/394.0.0.50.107;FBBV/318819784;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Skitto;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.katana;FBDV/SO-53C;FBSV/12;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/212.0.0.28.110;FBBV/145459230;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/AT&amp-T;FBMF/GOOGLE;FBBD/google;FBPN/com.facebook.katana;FBDV/Pixel 3 XL;FBSV/9.0;nullFBCA/arm64-v8a:;]
