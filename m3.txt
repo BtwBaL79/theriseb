@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/63.0.0.37.81;FBBV/21778670;FBDM/{density=2.5,width=2048,height=800};FBLC/en_US;FBCR/Lumitel;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/DRA-LX9;FBSV/10.1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/304.0.0.39.118;FBBV/271126404;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/Robi rio;FBMF/Kyocera;FBBD/kyocera;FBPN/com.facebook.katana;FBDV/S6-KC;FBSV/10;nullFBCA/arm64-v8a:;]
