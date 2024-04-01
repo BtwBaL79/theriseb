@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/273.0.0.39.123;FBBV/218047935;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Grameenphone;FBMF/Wiko;FBBD/Wiko;FBPN/com.facebook.katana;FBDV/W-V673-01;FBSV/11;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/245.0.0.39.118;FBBV/180475969;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Somtel;FBMF/DOOGEE;FBBD/doogee;FBPN/com.facebook.katana;FBDV/X95;FBSV/10;nullFBCA/arm64-v8a:;]
