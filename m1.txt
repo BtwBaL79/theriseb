@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/273.0.0.39.123;FBBV/218047935;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/POST Luxembourg;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/X6793;FBSV/8.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/273.0.0.39.123;FBBV/218047935;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Grameenphone;FBMF/Wiko;FBBD/Wiko;FBPN/com.facebook.katana;FBDV/W-V673-01;FBSV/11;nullFBCA/armeabi-v7a:armeabi;]
