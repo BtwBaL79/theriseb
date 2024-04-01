@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/298.0.0.46.116;FBBV/259886945;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/null;FBMF/Wiko;FBBD/Wiko;FBPN/com.facebook.katana;FBDV/W_C800;FBSV/8.0;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/370.0.0.23.112;FBBV/314014367;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/Maxis;FBMF/Reeder ;FBBD/reeder ;FBPN/com.facebook.katana;FBDV/P13 Blue MaxL 2021;FBSV/11;nullFBCA/arm64-v8a:;]
