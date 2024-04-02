@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/199.0.0.56.98;FBBV/132462584;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Airtel;FBMF/Prestigio;FBBD/Muze;FBPN/com.facebook.katana;FBDV/PMT3231_4G_D_RU;FBSV/10;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/268.1.0.54.121;FBBV/211681886;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Telekom Albania;FBMF/Headwolf ;FBBD/Headwolf ;FBPN/com.facebook.katana;FBDV/Wpad3;FBSV/12;nullFBCA/arm64-v8a:;]
