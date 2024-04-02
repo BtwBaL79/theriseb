@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/268.1.0.54.121;FBBV/211681886;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Telekom Albania;FBMF/Headwolf ;FBBD/Headwolf ;FBPN/com.facebook.katana;FBDV/Wpad3;FBSV/12;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/356.0.0.28.112;FBBV/311215741;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/maxis;FBMF/BMOBILE;FBBD/bmobile;FBPN/com.facebook.katana;FBDV/AX1076+;FBSV/8.1;nullFBCA/armeabi-v7a:armeabi;]
