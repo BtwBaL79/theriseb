@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/291.0.0.44.120;FBBV/249604761;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Our Telekom;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.katana;FBDV/A102SO;FBSV/13;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/367.0.0.24.107;FBBV/313412960;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/Axiatia;FBMF/Multilaser;FBBD/multilaser;FBPN/com.facebook.katana;FBDV/Multilaser_Elite_2;FBSV/10;nullFBCA/arm64-v8a:;]
