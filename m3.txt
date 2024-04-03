@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/228.0.0.41.124;FBBV/161383643;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/airtel;FBMF/MAXWEST;FBBD/maxwest;FBPN/com.facebook.katana;FBDV/Astro 4 PRO;FBSV/8.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/63.0.0.37.81;FBBV/21778670;FBDM/{density=2.5,width=2048,height=800};FBLC/en_US;FBCR/T-Mobile;FBMF/TECNO;FBBD/TECNO;FBPN/com.facebook.katana;FBDV/TECNO BF6;FBSV/12;FBCA/arm64-v8a:;]
