@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/336.0.0.20.117;FBBV/287214784;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/Telma;FBMF/Walton;FBBD/Walton;FBPN/com.facebook.katana;FBDV/Primo RX8 Mini;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/186.0.0.48.81;FBBV/121473356;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Airtel;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.katana;FBDV/I3213;FBSV/9;nullFBCA/arm64-v8a:;]
