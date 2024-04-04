@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/250.0.0.26.241;FBBV/187584912;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/3 UK;FBMF/RCA;FBBD/RCA;FBPN/com.facebook.katana;FBDV/RCT6B06P23;FBSV/9.0;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/369.0.0.18.103;FBBV/313811870;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/airtel;FBMF/Lenovo;FBBD/lenovo;FBPN/com.facebook.katana;FBDV/Lenovo YT-J706X;FBSV/11;nullFBCA/armeabi-v7a:armeabi;]
