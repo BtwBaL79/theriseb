@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/280.0.0.44.122;FBBV/233235235;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Cricket;FBMF/Aroepurt;FBBD/Aroepurt;FBPN/com.facebook.katana;FBDV/ALTICE_S43;FBSV/11;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/250.0.0.26.241;FBBV/187584912;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/3 UK;FBMF/RCA;FBBD/RCA;FBPN/com.facebook.katana;FBDV/RCT6B06P23;FBSV/9.0;nullFBCA/armeabi-v7a:armeabi;]
