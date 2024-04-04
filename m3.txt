@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/410.0.0.26.115;FBBV/441017073;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Monaco Telecom;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/V1813A;FBSV/8.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/183.0.0.39.75;FBBV/119103913;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/airtel;FBMF/Ulefone;FBBD/Ulefone;FBPN/com.facebook.katana;FBDV/Ulefone_S11;FBSV/8.1;nullFBCA/armeabi-v7a:armeabi;]
