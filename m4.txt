@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/281.0.0.36.124;FBBV/234741944;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Unitel;FBMF/DOOGEE;FBBD/Doogee;FBPN/com.facebook.katana;FBDV/S97Pro;FBSV/11;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/267.1.0.46.120;FBBV/210653367;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/Robi;FBMF/SHARP;FBBD/sharp;FBPN/com.facebook.katana;FBDV/SHV42;FBSV/8;nullFBCA/arm64-v8a:;]
