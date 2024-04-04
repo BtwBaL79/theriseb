@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/262.0.0.34.117;FBBV/203997157;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/Aircel;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/Infinix X663;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/183.0.0.39.75;FBBV/119103913;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/airtel;FBMF/Ulefone;FBBD/Ulefone;FBPN/com.facebook.katana;FBDV/Ulefone_S11;FBSV/8.1;nullFBCA/armeabi-v7a:armeabi;]
