@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/378.0.0.18.112;FBBV/315613980;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/Banglalink;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/Redmi Note 6 Pro;FBSV/8.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/403.0.0.27.81;FBBV/421611052;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/Grameenphone;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.katana;FBDV/SM-G990U2;FBSV/13;nullFBCA/arm64-v8a:;]
