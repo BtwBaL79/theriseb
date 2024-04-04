@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/354.0.0.22.110;FBBV/310813944;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Airtel;FBMF/alcatel;FBBD/alcatel;FBPN/com.facebook.katana;FBDV/5002W;FBSV/10;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/217.0.0.45.98;FBBV/150298377;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/null;FBMF/SKY;FBBD/SKY;FBPN/com.facebook.katana;FBDV/Elite 45T;FBSV/7.0;nullFBCA/arm64-v8a:;]
