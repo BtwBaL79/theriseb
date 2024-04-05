@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/409.0.0.27.106;FBBV/440813707;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Econet Leo;FBMF/SHARP;FBBD/sharp;FBPN/com.facebook.katana;FBDV/801SH;FBSV/9;nullFBCA/armeabi-v7a:armeabi:;]
+[FBAN/FB4A;FBAV/367.0.0.24.107;FBBV/313412960;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Banglalink;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J701M;FBSV/7.0;nullFBCA/armeabi-v7a:armeabi:;]
