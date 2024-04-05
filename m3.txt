@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/183.0.0.39.75;FBBV/119103913;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/airtel;FBMF/Ulefone;FBBD/Ulefone;FBPN/com.facebook.katana;FBDV/Ulefone_S11;FBSV/8.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/291.0.0.44.120;FBBV/249604761;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/MagtiCom;FBMF/SHARP;FBBD/sharp;FBPN/com.facebook.katana;FBDV/SH-M07;FBSV/8.0;nullFBCA/armeabi-v7a:armeabi:;]
