@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/379.0.0.24.109;FBBV/315814638;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Grameenphone;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-P200;FBSV/9.0;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/274.0.0.46.119;FBBV/219237426;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/MagtiCom;FBMF/NEC;FBBD/NEC;FBPN/com.facebook.katana;FBDV/LAVIE Tab E 10FHD2;FBSV/5.0;nullFBCA/arm64-v8a:;]
