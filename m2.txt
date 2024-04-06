@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/194.0.0.42.99;FBBV/127867930;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/Grameenphone;FBMF/Realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/Realme G70 Series;FBSV/7;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/398.0.0.21.105;FBBV/420612354;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/Teletalk;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G970W;FBSV/9.0;nullFBCA/armeabi-v7a:armeabi:;]
