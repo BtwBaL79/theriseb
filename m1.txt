@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/308.0.0.42.118;FBBV/275987610;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Banglalink;FBMF/HOTWAV;FBBD/HOTWAV;FBPN/com.facebook.katana;FBDV/W10 Pro;FBSV/10;nullFBCA/armeabi-v7a:armeabi:;]
+[FBAN/FB4A;FBAV/345.0.0.34.118;FBBV/309015953;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/Banglalink;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/CPH2409;FBSV/12;nullFBCA/armeabi-v7a:armeabi;]
