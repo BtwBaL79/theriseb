@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/367.0.0.24.107;FBBV/313412960;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Banglalink;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J701M;FBSV/7.0;nullFBCA/armeabi-v7a:armeabi:;]
+[FBAN/FB4A;FBAV/207.0.0.33.100;FBBV/140791845;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/Grameenphone;FBMF/Iphone;FBBD/Iphone;FBPN/com.facebook.katana;FBDV/Iphone12 pro max;FBSV/14.1;nullFBCA/armeabi-v7a:armeabi:;]
