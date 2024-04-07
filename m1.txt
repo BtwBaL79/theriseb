@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/288.0.0.46.123;FBBV/245199169;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/Eswatini Mobile;FBMF/Shantime;FBBD/Shantime;FBPN/com.facebook.katana;FBDV/A001KC;FBSV/11;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/337.0.0.32.118;FBBV/287416593;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/POST Luxembourg;FBMF/Nokia;FBBD/nokia;FBPN/com.facebook.katana;FBDV/Nokia 3.1 A;FBSV/9.0;nullFBCA/armeabi-v7a:armeabi:;]
