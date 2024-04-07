@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/195.0.0.35.99;FBBV/128710107;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Grameenphone;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/T1-701U;FBSV/4.4.2;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/243.0.0.49.108;FBBV/178248449;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/airtel;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Redmi 8 Series;FBSV/9.0;nullFBCA/armeabi-v7a:armeabi;]
