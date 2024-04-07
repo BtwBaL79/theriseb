@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/317.0.0.51.119;FBBV/283419120;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/maxis;FBMF/Nokia;FBBD/Nokia;FBPN/com.facebook.katana;FBDV/Nokia T10;FBSV/12;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/195.0.0.35.99;FBBV/128710107;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Grameenphone;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/T1-701U;FBSV/4.4.2;nullFBCA/arm64-v8a:;]
