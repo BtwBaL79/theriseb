@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/312.0.0.45.117;FBBV/282418109;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Jio 4G;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/Lenovo TB-X606X;FBSV/9.0;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/318.0.0.39.154;FBBV/283621019;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Aircel;FBMF/itel;FBBD/itel;FBPN/com.facebook.katana;FBDV/itel A571L;FBSV/10;nullFBCA/arm64-v8a:;]
