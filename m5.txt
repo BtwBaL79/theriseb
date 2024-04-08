@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/193.0.0.45.101;FBBV/127048952;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Namaste;FBMF/Axs;FBBD/Bolivia;FBPN/com.facebook.katana;FBDV/AXSTV130;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi:;]
+[FBAN/FB4A;FBAV/389.0.0.42.111;FBBV/317817218;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/vodafone idea;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/V2190A;FBSV/12;nullFBCA/arm64-v8a:;]
