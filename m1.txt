@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/401.0.0.24.77;FBBV/421209723;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/KPN;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/CPH2131;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/282.0.0.40.117;FBBV/236468560;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Free Mobile ;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/A9 Pro;FBSV/6.0.1;nullFBCA/arm64-v8a:;]
