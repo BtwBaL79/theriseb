@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/228.0.0.41.124;FBBV/161383643;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/Telecel;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A025V;FBSV/12;nullFBCA/armeabi-v7a:armeabi:;]
+[FBAN/FB4A;FBAV/362.0.0.27.109;FBBV/312415283;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Malitel;FBMF/ILIUM;FBBD/Ilium;FBPN/com.facebook.katana;FBDV/ILIUM_PAD_RX10;FBSV/10;nullFBCA/armeabi-v7a:armeabi:;]
