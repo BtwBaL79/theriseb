@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/375.1.0.28.111;FBBV/315015375;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/KPN;FBMF/SHARP;FBBD/Sharp;FBPN/com.facebook.katana;FBDV/SHV39;FBSV/9;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/259.0.0.36.115;FBBV/200359502;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Eswatini Mobile;FBMF/Multilaser;FBBD/multilaser;FBPN/com.facebook.katana;FBDV/Multilaser_F_Pro_2;FBSV/11;nullFBCA/armeabi-v7a:armeabi:;]
