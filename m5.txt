@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/314.0.0.43.119;FBBV/282818049;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Vodafone Idea;FBMF/Lava;FBBD/lava;FBPN/com.facebook.katana;FBDV/Lava Z66;FBSV/10;nullFBCA/armeabi-v7a:armeabi:;]
+[FBAN/FB4A;FBAV/183.0.0.39.75;FBBV/119103913;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/IND airtel;FBMF/Audi;FBBD/audi;FBPN/com.facebook.katana;FBDV/Q3;FBSV/11;nullFBCA/arm64-v8a:;]
