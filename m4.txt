@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/276.0.0.44.127;FBBV/225129281;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Telecel;FBMF/Doro;FBBD/doro;FBPN/com.facebook.katana;FBDV/Doro 8100;FBSV/11;nullFBCA/armeabi-v7a:armeabi:;]
+[FBAN/FB4A;FBAV/354.0.0.22.110;FBBV/310813944;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/Banglalink;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/STK-L22;FBSV/9.0;nullFBCA/arm64-v8a:;]
