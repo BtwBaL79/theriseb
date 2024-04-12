@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/342.0.0.37.119;FBBV/308417363;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Vodafone Idea;FBMF/Polaroid;FBBD/polaroid;FBPN/com.facebook.katana;FBDV/BDL0232PR;FBSV/11;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/262.0.0.34.117;FBBV/203997157;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/Reliance Jio;FBMF/VANKYO;FBBD/vankyo;FBPN/com.facebook.katana;FBDV/VANKYO_S7_EEA;FBSV/9.0;nullFBCA/arm64-v8a:;]
