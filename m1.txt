@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/404.0.0.35.70;FBBV/421812321;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Grameenphone;FBMF/Ulefone;FBBD/ulefone;FBPN/com.facebook.katana;FBDV/Note 8P;FBSV/10;nullFBCA/armeabi-v7a:armeabi:;]
+[FBAN/FB4A;FBAV/183.0.0.39.75;FBBV/119103913;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/ft.telecom.bd;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J610FN;FBSV/8.1;nullFBCA/armeabi-v7a:armeabi:;]
