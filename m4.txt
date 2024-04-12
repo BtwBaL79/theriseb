@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/354.0.0.22.110;FBBV/310813944;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/Banglalink;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/STK-L22;FBSV/9.0;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/386.0.0.35.108;FBBV/317217654;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/eSIMme;FBMF/Maximus;FBBD/maximus;FBPN/com.facebook.katana;FBDV/MAX5;FBSV/6.0;nullFBCA/arm64-v8a:;]
