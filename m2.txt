@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/203.0.0.16.293;FBBV/137424444;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Maxis;FBMF/Moxee;FBBD/moxee;FBPN/com.facebook.katana;FBDV/MT-T800;FBSV/10;nullFBCA/armeabi-v7a:armeabi:;]
+[FBAN/FB4A;FBAV/328.1.0.28.119;FBBV/285616312;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Axiata;FBMF/ASUS;FBBD/asus;FBPN/com.facebook.katana;FBDV/Zenfone Max Pro M1;FBSV/8.1;nullFBCA/armeabi-v7a:armeabi:;]
