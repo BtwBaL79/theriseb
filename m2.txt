@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/201.0.0.58.99;FBBV/134535552;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/Safaricom;FBMF/LIFETAB;FBBD/LIFETAB;FBPN/com.facebook.katana;FBDV/LIFETAB E1043X;FBSV/10;nullFBCA/armeabi-v7a:armeabi:;]
+[FBAN/FB4A;FBAV/329.0.0.29.120;FBBV/285812519;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/Robi;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/DN2101;FBSV/11.3;nullFBCA/armeabi-v7a:armeabi:;]
