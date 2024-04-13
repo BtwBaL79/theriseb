@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/330.0.0.31.120;FBBV/286016007;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/Bitė;FBMF/ZTE;FBBD/ZTE;FBPN/com.facebook.katana;FBDV/A003ZT;FBSV/11;nullFBCA/armeabi-v7a:armeabi:;]
+[FBAN/FB4A;FBAV/330.0.0.31.120;FBBV/286016007;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/Bite;FBMF/ZTE;FBBD/ZTE;FBPN/com.facebook.katana;FBDV/A003ZT;FBSV/11;nullFBCA/armeabi-v7a:armeabi:;]
