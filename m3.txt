@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/368.0.0.24.108;FBBV/313613498;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Banglalink;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/HW-01K;FBSV/8.1;nullFBCA/armeabi-v7a:armeabi:;]
+[FBAN/FB4A;FBAV/413.0.0.30.104;FBBV/441615153;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/KPN;FBMF/CHERRY;FBBD/Cherry;FBPN/com.facebook.katana;FBDV/Flare S8 Max;FBSV/9.0;nullFBCA/armeabi-v7a:armeabi:;]
