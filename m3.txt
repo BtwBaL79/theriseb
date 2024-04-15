@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/250.0.0.26.241;FBBV/187584912;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/Maxis;FBMF/Doogee;FBBD/Doogee;FBPN/com.facebook.katana;FBDV/S96GT;FBSV/12;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/325.0.0.36.170;FBBV/285022375;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/Our Telekom;FBMF/GIONEE;FBBD/gionee;FBPN/com.facebook.katana;FBDV/GIONEE_MAX Pro;FBSV/10;nullFBCA/arm64-v8a:;]
